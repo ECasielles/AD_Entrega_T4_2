@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AD_Entrega_T4</string>
+    <string name="name">El tiempo en: </string>
+    <string name="temperatura">Temperatura: ºC</string>
+    <string name="presion">Presión: hpa</string>
+    <string name="humedad">Humedad: %</string>
 </resources>

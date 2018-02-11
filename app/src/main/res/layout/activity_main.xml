@@ -4,17 +4,69 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.mercacortex.ad_entrega_t4.MainActivity"
+    tools:context="com.mercacortex.ad_entrega_t4.ui.MainActivity"
     >
 
-    <TextView
+
+    <Button
+        android:id="@+id/btnOpenWeatherMap"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="24dp"
+        android:onClick="onClick"
+        android:text="OpenWeatherMap"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         />
+
+    <Button
+        android:id="@+id/btnOpenWeatherMapEspaña"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:onClick="onClick"
+        android:text="OpenWeatherMapEspaña"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnOpenWeatherMap"
+        />
+
+    <Button
+        android:id="@+id/btnConversorMonedaJSON"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:onClick="onClick"
+        android:text="ConversorMonedaJSON"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnOpenWeatherMapEspaña"
+        />
+
+    <Button
+        android:id="@+id/btnBiziGSON"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:onClick="onClick"
+        android:text="BiziGSON"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnConversorMonedaJSON"
+        />
+
+    <Button
+        android:id="@+id/btnDatosAbiertos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:onClick="onClick"
+        android:text="DatosAbiertos"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnBiziGSON"
+        />
+
 
 </android.support.constraint.ConstraintLayout>
