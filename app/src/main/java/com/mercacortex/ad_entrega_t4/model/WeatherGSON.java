@@ -92,6 +92,14 @@ public class WeatherGSON {
         public Integer getHumidity() {
             return humidity;
         }
+
+        public Float getTempMax() {
+            return tempMax;
+        }
+
+        public Float getTempMin() {
+            return tempMin;
+        }
     }
 
     public class Sys {

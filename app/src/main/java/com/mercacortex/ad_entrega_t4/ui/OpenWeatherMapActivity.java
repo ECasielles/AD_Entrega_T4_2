@@ -13,10 +13,9 @@ import com.mercacortex.ad_entrega_t4.model.CityWeather;
 
 import java.util.ArrayList;
 
-//TODO: Capturar excepciones
-public class OpenWeatherMapActivity extends AppCompatActivity {
+public class OpenWeatherMapActivity extends AppCompatActivity implements IOpenWeatherMap {
+    public static final String TAG = "OpenWeatherMapActivity";
 
-    public static final String CITY_WEATHER = "CityWeather";
     ListView listView;
     ArrayList<CityWeather> cities;
     ArrayAdapter<CityWeather> cityWeatherAdapter;
@@ -51,7 +50,8 @@ public class OpenWeatherMapActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
                 Intent intent = new Intent(OpenWeatherMapActivity.this, CityWeatherActivity.class);
-                intent.putExtra(CITY_WEATHER, cities.get(position));
+                intent.putExtra(CITY, cities.get(position));
+                intent.putExtra(KEY, TAG);
                 startActivity(intent);
             }
         });

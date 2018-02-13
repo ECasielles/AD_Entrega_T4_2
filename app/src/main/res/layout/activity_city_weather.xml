@@ -51,6 +51,19 @@
         />
 
     <TextView
+        android:id="@+id/txvMaxMinTemperature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/temperatura_max_min"
+        app:layout_constraintEnd_toEndOf="@+id/txvTemperature"
+        app:layout_constraintStart_toStartOf="@+id/txvTemperature"
+        app:layout_constraintTop_toBottomOf="@+id/txvTemperature"
+        />
+
+    <TextView
         android:id="@+id/txvPressure"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -58,10 +71,9 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
         android:text="@string/presion"
-        app:layout_constraintEnd_toEndOf="@+id/txvName"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/txvName"
-        app:layout_constraintTop_toBottomOf="@+id/txvTemperature"
+        app:layout_constraintEnd_toEndOf="@+id/txvMaxMinTemperature"
+        app:layout_constraintStart_toStartOf="@+id/txvMaxMinTemperature"
+        app:layout_constraintTop_toBottomOf="@+id/txvMaxMinTemperature"
         />
 
     <TextView
@@ -72,8 +84,8 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
         android:text="@string/humedad"
-        app:layout_constraintEnd_toEndOf="@+id/txvName"
-        app:layout_constraintStart_toStartOf="@+id/txvName"
+        app:layout_constraintEnd_toEndOf="@+id/txvPressure"
+        app:layout_constraintStart_toStartOf="@+id/txvPressure"
         app:layout_constraintTop_toBottomOf="@+id/txvPressure"
         />
 

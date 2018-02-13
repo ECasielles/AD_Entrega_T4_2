@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, OpenWeatherMapActivity.class));
                 break;
             case R.id.btnOpenWeatherMapEspaña:
-                startActivity(new Intent(this, OpenWeatherMapActivitySpain.class));
+                startActivity(new Intent(this, OpenWeatherMapSpainActivity.class));
                 break;
             case R.id.btnConversorMonedaJSON:
                 startActivity(new Intent(this, ConversorMonedaJSONActivity.class));

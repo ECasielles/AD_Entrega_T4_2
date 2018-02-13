@@ -19,6 +19,9 @@ public class CityWeather implements Parcelable {
     int id;
     String name;
 
+    public CityWeather() {
+    }
+
     public CityWeather(int id, String name) {
         this.id = id;
         this.name = name;
@@ -42,6 +45,18 @@ public class CityWeather implements Parcelable {
 
     public int getId() {
         return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     @Override
