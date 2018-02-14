@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.mercacortex.ad_entrega_t4.ui.openweathermap.weather.CityWeatherActivity"
     >
 
     <ImageView
@@ -16,7 +14,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
         app:layout_constraintBottom_toTopOf="@+id/txvDate"
-        app:layout_constraintDimensionRatio="16:9"
+        app:layout_constraintDimensionRatio="9:3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -28,9 +26,8 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="24dp"
         android:layout_marginStart="24dp"
-        android:layout_marginTop="24dp"
-        android:text="@string/name"
-        app:layout_constraintDimensionRatio="w,1:1"
+        android:layout_marginTop="16dp"
+        android:text="@string/date"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@id/imvForecast"
@@ -38,13 +35,13 @@
         />
 
     <TextView
-        android:id="@+id/txvTemperature"
+        android:id="@+id/txvMaxMinTemperature"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="24dp"
         android:layout_marginStart="24dp"
-        android:layout_marginTop="24dp"
-        android:text="@string/temperatura"
+        android:layout_marginTop="16dp"
+        android:text="@string/temperatura_max_min"
         app:layout_constraintEnd_toEndOf="@+id/txvDate"
         app:layout_constraintStart_toStartOf="@+id/txvDate"
         app:layout_constraintTop_toBottomOf="@+id/txvDate"
@@ -56,11 +53,11 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="24dp"
         android:layout_marginStart="24dp"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="16dp"
         android:text="@string/presion"
-        app:layout_constraintEnd_toEndOf="@+id/txvTemperature"
-        app:layout_constraintStart_toStartOf="@+id/txvTemperature"
-        app:layout_constraintTop_toBottomOf="@+id/txvTemperature"
+        app:layout_constraintEnd_toEndOf="@+id/txvMaxMinTemperature"
+        app:layout_constraintStart_toStartOf="@+id/txvMaxMinTemperature"
+        app:layout_constraintTop_toBottomOf="@+id/txvMaxMinTemperature"
         />
 
     <TextView
@@ -69,7 +66,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="24dp"
         android:layout_marginStart="24dp"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="16dp"
         android:text="@string/humedad"
         app:layout_constraintEnd_toEndOf="@+id/txvPressure"
         app:layout_constraintStart_toStartOf="@+id/txvPressure"

@@ -1,4 +1,4 @@
-package com.mercacortex.ad_entrega_t4.ui;
+package com.mercacortex.ad_entrega_t4.ui.openweathermap.weather;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -12,22 +12,19 @@ import com.mercacortex.ad_entrega_t4.api.WeatherAPI;
 import com.mercacortex.ad_entrega_t4.model.CityWeather;
 import com.mercacortex.ad_entrega_t4.model.WeatherGSON;
 import com.mercacortex.ad_entrega_t4.network.RestClient;
+import com.mercacortex.ad_entrega_t4.ui.openweathermap.IOpenWeatherMap;
 import com.mercacortex.ad_entrega_t4.utils.Analisis;
 import com.squareup.picasso.Picasso;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.FileNotFoundException;
 import java.util.Locale;
 
 import cz.msebera.android.httpclient.Header;
 
 public class CityWeatherActivity extends AppCompatActivity {
-
-    private static final int DAYS = 7;
-    private TextView txvName, txvTemperature, txvMaxMinTemperature,
-            txvPressure, txvHumidity;
+    private TextView txvName, txvTemperature, txvPressure, txvHumidity;
     private ImageView imvForecast;
 
     @Override
@@ -35,29 +32,23 @@ public class CityWeatherActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_city_weather);
 
-        txvName = findViewById(R.id.txvName);
+        txvName = findViewById(R.id.txvDate);
         txvTemperature = findViewById(R.id.txvTemperature);
-        txvMaxMinTemperature = findViewById(R.id.txvMaxMinTemperature);
         txvPressure = findViewById(R.id.txvPressure);
         txvHumidity = findViewById(R.id.txvHumidity);
         imvForecast = findViewById(R.id.imvForecast);
 
         CityWeather cityWeather = getIntent().getParcelableExtra(IOpenWeatherMap.CITY);
-        String url = "";
-        String tag = getIntent().getStringExtra(IOpenWeatherMap.KEY);
-        switch (tag) {
-            case OpenWeatherMapActivity.TAG:
-                url = WeatherAPI.loadCityWeather(cityWeather.getId());
-                break;
-            case OpenWeatherMapSpainActivity.TAG:
-                url = WeatherAPI.loadCityDailyForecast(cityWeather.getId(), DAYS);
-                break;
+        if (cityWeather != null) {
+            String url = WeatherAPI.loadCityWeather(cityWeather.getId());
+            if (!url.isEmpty())
+                download(url);
+            else
+                showMessage("Fallo en la conexión");
         }
-        if (!url.isEmpty())
-            descarga(url, tag, cityWeather.getName());
     }
 
-    private void descarga(String url, final String tag, final String cityName) {
+    private void download(String url) {
         RestClient.get(url, new JsonHttpResponseHandler() {
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
@@ -72,10 +63,6 @@ public class CityWeatherActivity extends AppCompatActivity {
                             "Temperatura: %sºC",
                             weatherGSON.main.getTemp())
                     );
-                    txvMaxMinTemperature.setText(String.format(
-                            "Temperatura M/m: %s/%sºC",
-                            weatherGSON.main.getTempMax(), weatherGSON.main.getTempMin())
-                    );
                     txvPressure.setText(String.format(Locale.getDefault(),
                             "Presión: %dhpa",
                             weatherGSON.main.getPressure())
@@ -87,12 +74,6 @@ public class CityWeatherActivity extends AppCompatActivity {
                     Picasso.with(CityWeatherActivity.this)
                             .load(WeatherAPI.loadWeatherIcon(weatherGSON.weather.get(0).icon))
                             .into(imvForecast);
-                    if (tag.equals(OpenWeatherMapSpainActivity.TAG))
-                        try {
-                            Analisis.downloadContent(response, cityName);
-                        } catch (FileNotFoundException e) {
-                            showMessage("Error de escritura en archivo: " + e.getLocalizedMessage());
-                        }
                 } catch (JSONException e) {
                     showMessage("Error de lectura de JSON: " + e.getLocalizedMessage());
                 }

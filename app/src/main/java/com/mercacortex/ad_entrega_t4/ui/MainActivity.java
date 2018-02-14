@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.mercacortex.ad_entrega_t4.R;
+import com.mercacortex.ad_entrega_t4.ui.openweathermap.forecast.OpenWeatherMapSpainActivity;
+import com.mercacortex.ad_entrega_t4.ui.openweathermap.weather.OpenWeatherMapActivity;
 
 public class MainActivity extends AppCompatActivity {
 

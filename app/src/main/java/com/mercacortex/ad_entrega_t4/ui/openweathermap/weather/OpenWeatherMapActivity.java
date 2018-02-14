@@ -1,4 +1,4 @@
-package com.mercacortex.ad_entrega_t4.ui;
+package com.mercacortex.ad_entrega_t4.ui.openweathermap.weather;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,12 +10,11 @@ import android.widget.ListView;
 
 import com.mercacortex.ad_entrega_t4.R;
 import com.mercacortex.ad_entrega_t4.model.CityWeather;
+import com.mercacortex.ad_entrega_t4.ui.openweathermap.IOpenWeatherMap;
 
 import java.util.ArrayList;
 
 public class OpenWeatherMapActivity extends AppCompatActivity implements IOpenWeatherMap {
-    public static final String TAG = "OpenWeatherMapActivity";
-
     ListView listView;
     ArrayList<CityWeather> cities;
     ArrayAdapter<CityWeather> cityWeatherAdapter;
@@ -51,7 +50,6 @@ public class OpenWeatherMapActivity extends AppCompatActivity implements IOpenWe
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
                 Intent intent = new Intent(OpenWeatherMapActivity.this, CityWeatherActivity.class);
                 intent.putExtra(CITY, cities.get(position));
-                intent.putExtra(KEY, TAG);
                 startActivity(intent);
             }
         });

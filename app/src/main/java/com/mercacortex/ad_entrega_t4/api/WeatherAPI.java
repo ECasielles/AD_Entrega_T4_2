@@ -1,6 +1,7 @@
 package com.mercacortex.ad_entrega_t4.api;
 
 public class WeatherAPI {
+
     //http://api.openweathermap.org/data/2.5/weather?id=2514256&appid=6d4b06312a47c5d3a6c7d4a550306e02
     //http://api.openweathermap.org/data/2.5/forecast/daily?id=2514256&cnt=7&appid=6d4b06312a47c5d3a6c7d4a550306e02
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/";

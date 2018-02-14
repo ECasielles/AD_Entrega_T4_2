@@ -1,0 +1,8140 @@
+{
+  "cities": [
+    {
+      "id": 3119841,
+      "city": "A Coruna"
+    },
+    {
+      "id": 3119746,
+      "city": "A Estrada"
+    },
+    {
+      "id": 3119053,
+      "city": "A Rua"
+    },
+    {
+      "id": 3131136,
+      "city": "Abadin"
+    },
+    {
+      "id": 2522505,
+      "city": "Abanilla"
+    },
+    {
+      "id": 2522499,
+      "city": "Abaran"
+    },
+    {
+      "id": 3131093,
+      "city": "Abegondo"
+    },
+    {
+      "id": 3131024,
+      "city": "Abrera"
+    },
+    {
+      "id": 2522474,
+      "city": "Acala del Rio"
+    },
+    {
+      "id": 2522446,
+      "city": "Aceuchal"
+    },
+    {
+      "id": 2522438,
+      "city": "Adamuz"
+    },
+    {
+      "id": 2522437,
+      "city": "Adeje"
+    },
+    {
+      "id": 2522430,
+      "city": "Adra"
+    },
+    {
+      "id": 2522423,
+      "city": "Agaete"
+    },
+    {
+      "id": 2522419,
+      "city": "Agost"
+    },
+    {
+      "id": 3130911,
+      "city": "Agramunt"
+    },
+    {
+      "id": 3130909,
+      "city": "Agreda"
+    },
+    {
+      "id": 2522387,
+      "city": "Aguadulce"
+    },
+    {
+      "id": 2522388,
+      "city": "Aguadulce"
+    },
+    {
+      "id": 2522335,
+      "city": "Aguilar"
+    },
+    {
+      "id": 3130824,
+      "city": "Aguilar de Campoo"
+    },
+    {
+      "id": 2522333,
+      "city": "Aguilas"
+    },
+    {
+      "id": 2522325,
+      "city": "Aguimes"
+    },
+    {
+      "id": 2522319,
+      "city": "Agullent"
+    },
+    {
+      "id": 2521455,
+      "city": "Aielo de Malferit"
+    },
+    {
+      "id": 3129108,
+      "city": "Aiguafreda"
+    },
+    {
+      "id": 3129099,
+      "city": "Aitona"
+    },
+    {
+      "id": 3130753,
+      "city": "Ajalvir"
+    },
+    {
+      "id": 2522299,
+      "city": "Ajofrin"
+    },
+    {
+      "id": 3130739,
+      "city": "Alagon"
+    },
+    {
+      "id": 2522259,
+      "city": "Alaior"
+    },
+    {
+      "id": 2522293,
+      "city": "Alajero"
+    },
+    {
+      "id": 2522291,
+      "city": "Alameda"
+    },
+    {
+      "id": 2522268,
+      "city": "Alange"
+    },
+    {
+      "id": 2522297,
+      "city": "Alaquas"
+    },
+    {
+      "id": 2522261,
+      "city": "Alaro"
+    },
+    {
+      "id": 3130706,
+      "city": "Alba de Tormes"
+    },
+    {
+      "id": 2522258,
+      "city": "Albacete"
+    },
+    {
+      "id": 2522253,
+      "city": "Albaida"
+    },
+    {
+      "id": 2522251,
+      "city": "Albaida del Aljarafe"
+    },
+    {
+      "id": 2522250,
+      "city": "Albal"
+    },
+    {
+      "id": 2522245,
+      "city": "Albalat de la Ribera"
+    },
+    {
+      "id": 2522244,
+      "city": "Albalat dels Sorells"
+    },
+    {
+      "id": 3130698,
+      "city": "Albalate del Arzobispo"
+    },
+    {
+      "id": 2522228,
+      "city": "Albatera"
+    },
+    {
+      "id": 3130672,
+      "city": "Albelda de Iregua"
+    },
+    {
+      "id": 2522222,
+      "city": "Alberic"
+    },
+    {
+      "id": 3130660,
+      "city": "Alberite"
+    },
+    {
+      "id": 2522208,
+      "city": "Albolote"
+    },
+    {
+      "id": 2522203,
+      "city": "Alboraya"
+    },
+    {
+      "id": 2522200,
+      "city": "Albox"
+    },
+    {
+      "id": 2522191,
+      "city": "Albuixech"
+    },
+    {
+      "id": 2522187,
+      "city": "Albunol"
+    },
+    {
+      "id": 2522183,
+      "city": "Alburquerque"
+    },
+    {
+      "id": 2522165,
+      "city": "Alcala de Guadaira"
+    },
+    {
+      "id": 3130616,
+      "city": "Alcala de Henares"
+    },
+    {
+      "id": 2522162,
+      "city": "Alcala de los Gazules"
+    },
+    {
+      "id": 3130619,
+      "city": "Alcala de Xivert"
+    },
+    {
+      "id": 2522161,
+      "city": "Alcala del Valle"
+    },
+    {
+      "id": 2522160,
+      "city": "Alcala la Real"
+    },
+    {
+      "id": 3130608,
+      "city": "Alcanar"
+    },
+    {
+      "id": 3130606,
+      "city": "Alcaniz"
+    },
+    {
+      "id": 2522152,
+      "city": "Alcantarilla"
+    },
+    {
+      "id": 3130598,
+      "city": "Alcarras"
+    },
+    {
+      "id": 2522179,
+      "city": "Alcasser"
+    },
+    {
+      "id": 2522137,
+      "city": "Alcaudete"
+    },
+    {
+      "id": 2522131,
+      "city": "Alcazar de San Juan"
+    },
+    {
+      "id": 3130583,
+      "city": "Alcobendas"
+    },
+    {
+      "id": 3130582,
+      "city": "Alcoceber"
+    },
+    {
+      "id": 2522117,
+      "city": "Alcolea del Rio"
+    },
+    {
+      "id": 3130573,
+      "city": "Alcoletge"
+    },
+    {
+      "id": 2522112,
+      "city": "Alconchel"
+    },
+    {
+      "id": 3130564,
+      "city": "Alcorcon"
+    },
+    {
+      "id": 3130563,
+      "city": "Alcorisa"
+    },
+    {
+      "id": 3130557,
+      "city": "Alcover"
+    },
+    {
+      "id": 2522098,
+      "city": "Alcoy"
+    },
+    {
+      "id": 2522091,
+      "city": "Alcudia"
+    },
+    {
+      "id": 2522079,
+      "city": "Alcuescar"
+    },
+    {
+      "id": 2522077,
+      "city": "Aldaia"
+    },
+    {
+      "id": 3130523,
+      "city": "Aldea del Fresno"
+    },
+    {
+      "id": 2522072,
+      "city": "Aldea del Rey"
+    },
+    {
+      "id": 3130500,
+      "city": "Aldeamayor de San Martin"
+    },
+    {
+      "id": 3130496,
+      "city": "Aldeanueva de Ebro"
+    },
+    {
+      "id": 3130492,
+      "city": "Aldeanueva de la Vera"
+    },
+    {
+      "id": 3130422,
+      "city": "Alella"
+    },
+    {
+      "id": 2522058,
+      "city": "Alfacar"
+    },
+    {
+      "id": 2522057,
+      "city": "Alfafar"
+    },
+    {
+      "id": 2522052,
+      "city": "Alfara del Patriarca"
+    },
+    {
+      "id": 3130399,
+      "city": "Alfaro"
+    },
+    {
+      "id": 3130398,
+      "city": "Alfarras"
+    },
+    {
+      "id": 2522036,
+      "city": "Algaida"
+    },
+    {
+      "id": 2522023,
+      "city": "Algarinejo"
+    },
+    {
+      "id": 2522019,
+      "city": "Algarrobo"
+    },
+    {
+      "id": 2522013,
+      "city": "Algeciras"
+    },
+    {
+      "id": 2522012,
+      "city": "Algemesi"
+    },
+    {
+      "id": 3130383,
+      "city": "Algete"
+    },
+    {
+      "id": 2522007,
+      "city": "Alginet"
+    },
+    {
+      "id": 2522005,
+      "city": "Algodonales"
+    },
+    {
+      "id": 2522001,
+      "city": "Algorfa"
+    },
+    {
+      "id": 3130380,
+      "city": "Algorta"
+    },
+    {
+      "id": 3130379,
+      "city": "Alguaire"
+    },
+    {
+      "id": 2522000,
+      "city": "Alguazas"
+    },
+    {
+      "id": 2521994,
+      "city": "Alhama de Almeria"
+    },
+    {
+      "id": 2521993,
+      "city": "Alhama de Granada"
+    },
+    {
+      "id": 2521992,
+      "city": "Alhama de Murcia"
+    },
+    {
+      "id": 2521986,
+      "city": "Alhaurin de la Torre"
+    },
+    {
+      "id": 2521985,
+      "city": "Alhaurin el Grande"
+    },
+    {
+      "id": 2521984,
+      "city": "Alhendin"
+    },
+    {
+      "id": 2521978,
+      "city": "Alicante"
+    },
+    {
+      "id": 2521964,
+      "city": "Aljaraque"
+    },
+    {
+      "id": 3130354,
+      "city": "Allariz"
+    },
+    {
+      "id": 2521945,
+      "city": "Almachar"
+    },
+    {
+      "id": 2521928,
+      "city": "Almagro"
+    },
+    {
+      "id": 2521923,
+      "city": "Almansa"
+    },
+    {
+      "id": 2521913,
+      "city": "Almargen"
+    },
+    {
+      "id": 2521909,
+      "city": "Almassora"
+    },
+    {
+      "id": 3130313,
+      "city": "Almazan"
+    },
+    {
+      "id": 2521905,
+      "city": "Almedinilla"
+    },
+    {
+      "id": 3130306,
+      "city": "Almenar"
+    },
+    {
+      "id": 2521899,
+      "city": "Almenara"
+    },
+    {
+      "id": 2521893,
+      "city": "Almendralejo"
+    },
+    {
+      "id": 2521887,
+      "city": "Almensilla"
+    },
+    {
+      "id": 2521886,
+      "city": "Almeria"
+    },
+    {
+      "id": 2521869,
+      "city": "Almodovar del Campo"
+    },
+    {
+      "id": 2521867,
+      "city": "Almodovar del Rio"
+    },
+    {
+      "id": 2521866,
+      "city": "Almogia"
+    },
+    {
+      "id": 2521864,
+      "city": "Almoharin"
+    },
+    {
+      "id": 2521857,
+      "city": "Almonte"
+    },
+    {
+      "id": 2521855,
+      "city": "Almoradi"
+    },
+    {
+      "id": 3130283,
+      "city": "Almorox"
+    },
+    {
+      "id": 6615442,
+      "city": "Almozara"
+    },
+    {
+      "id": 3130279,
+      "city": "Almudebar"
+    },
+    {
+      "id": 2521847,
+      "city": "Almunecar"
+    },
+    {
+      "id": 2521845,
+      "city": "Almussafes"
+    },
+    {
+      "id": 2521840,
+      "city": "Alora"
+    },
+    {
+      "id": 2521839,
+      "city": "Alosno"
+    },
+    {
+      "id": 3130262,
+      "city": "Alovera"
+    },
+    {
+      "id": 2521838,
+      "city": "Alozaina"
+    },
+    {
+      "id": 3130255,
+      "city": "Alpedrete"
+    },
+    {
+      "id": 2521836,
+      "city": "Alpera"
+    },
+    {
+      "id": 3130249,
+      "city": "Alpicat"
+    },
+    {
+      "id": 7521822,
+      "city": "Alpujarra Granadina"
+    },
+    {
+      "id": 6543871,
+      "city": "Alquerias del Nino Perdido"
+    },
+    {
+      "id": 3130240,
+      "city": "Altafulla"
+    },
+    {
+      "id": 2521804,
+      "city": "Altea"
+    },
+    {
+      "id": 3130244,
+      "city": "Altsasu"
+    },
+    {
+      "id": 2521793,
+      "city": "Altura"
+    },
+    {
+      "id": 2522129,
+      "city": "Alzira"
+    },
+    {
+      "id": 3130155,
+      "city": "Ames"
+    },
+    {
+      "id": 3130141,
+      "city": "Amoeiro"
+    },
+    {
+      "id": 3130137,
+      "city": "Amorebieta-Etxano"
+    },
+    {
+      "id": 3130131,
+      "city": "Amposta"
+    },
+    {
+      "id": 3130128,
+      "city": "Ampuero"
+    },
+    {
+      "id": 3130124,
+      "city": "Amurrio"
+    },
+    {
+      "id": 3130070,
+      "city": "Andoain"
+    },
+    {
+      "id": 3130067,
+      "city": "Andorra"
+    },
+    {
+      "id": 3130066,
+      "city": "Andosilla"
+    },
+    {
+      "id": 2521741,
+      "city": "Andratx"
+    },
+    {
+      "id": 2521738,
+      "city": "Andujar"
+    },
+    {
+      "id": 3130032,
+      "city": "Angles"
+    },
+    {
+      "id": 2521722,
+      "city": "Anna"
+    },
+    {
+      "id": 2521718,
+      "city": "Anover de Tajo"
+    },
+    {
+      "id": 2521714,
+      "city": "Antas"
+    },
+    {
+      "id": 2521710,
+      "city": "Antequera"
+    },
+    {
+      "id": 2521706,
+      "city": "Antigua"
+    },
+    {
+      "id": 3129937,
+      "city": "Aoiz"
+    },
+    {
+      "id": 2521694,
+      "city": "Aracena"
+    },
+    {
+      "id": 2521692,
+      "city": "Arafo"
+    },
+    {
+      "id": 3129877,
+      "city": "Aranda de Duero"
+    },
+    {
+      "id": 3129864,
+      "city": "Aranga"
+    },
+    {
+      "id": 3129857,
+      "city": "Aranjuez"
+    },
+    {
+      "id": 3129809,
+      "city": "Arbeca"
+    },
+    {
+      "id": 3129802,
+      "city": "Arbo"
+    },
+    {
+      "id": 2521683,
+      "city": "Arboleas"
+    },
+    {
+      "id": 2521676,
+      "city": "Archena"
+    },
+    {
+      "id": 2521673,
+      "city": "Archidona"
+    },
+    {
+      "id": 2521665,
+      "city": "Arcos de la Frontera"
+    },
+    {
+      "id": 2521661,
+      "city": "Ardales"
+    },
+    {
+      "id": 3129679,
+      "city": "Arenas de Iguna"
+    },
+    {
+      "id": 3129678,
+      "city": "Arenas de San Pedro"
+    },
+    {
+      "id": 2521637,
+      "city": "Arenas del Rey"
+    },
+    {
+      "id": 3129661,
+      "city": "Arenys de Mar"
+    },
+    {
+      "id": 3129660,
+      "city": "Arenys de Munt"
+    },
+    {
+      "id": 3129655,
+      "city": "Ares"
+    },
+    {
+      "id": 3129692,
+      "city": "Aretxabaleta"
+    },
+    {
+      "id": 3129644,
+      "city": "Arevalo"
+    },
+    {
+      "id": 2521620,
+      "city": "Argamasilla de Alba"
+    },
+    {
+      "id": 2521619,
+      "city": "Argamasilla de Calatrava"
+    },
+    {
+      "id": 3129636,
+      "city": "Arganda"
+    },
+    {
+      "id": 3129607,
+      "city": "Argentona"
+    },
+    {
+      "id": 3129588,
+      "city": "Arguedas"
+    },
+    {
+      "id": 2521594,
+      "city": "Arjona"
+    },
+    {
+      "id": 2521593,
+      "city": "Arjonilla"
+    },
+    {
+      "id": 2521590,
+      "city": "Armilla"
+    },
+    {
+      "id": 2521582,
+      "city": "Arona"
+    },
+    {
+      "id": 2521577,
+      "city": "Arquillos"
+    },
+    {
+      "id": 3116503,
+      "city": "Arrasate-Mondragon"
+    },
+    {
+      "id": 2521570,
+      "city": "Arrecife"
+    },
+    {
+      "id": 2521566,
+      "city": "Arriate"
+    },
+    {
+      "id": 3129413,
+      "city": "Arriba"
+    },
+    {
+      "id": 3129406,
+      "city": "Arrigorriaga"
+    },
+    {
+      "id": 3129371,
+      "city": "Arroyo"
+    },
+    {
+      "id": 2521555,
+      "city": "Arroyo de la Luz"
+    },
+    {
+      "id": 2521549,
+      "city": "Arroyo de San Servan"
+    },
+    {
+      "id": 2521550,
+      "city": "Arroyo del Ojanco"
+    },
+    {
+      "id": 3129356,
+      "city": "Arroyomolinos"
+    },
+    {
+      "id": 2521534,
+      "city": "Arta"
+    },
+    {
+      "id": 3129329,
+      "city": "Arteixo"
+    },
+    {
+      "id": 3129326,
+      "city": "Artes"
+    },
+    {
+      "id": 2521519,
+      "city": "Arucas"
+    },
+    {
+      "id": 3129293,
+      "city": "Arzua"
+    },
+    {
+      "id": 2521510,
+      "city": "Aspe"
+    },
+    {
+      "id": 3129239,
+      "city": "Astigarraga"
+    },
+    {
+      "id": 3129231,
+      "city": "Astorga"
+    },
+    {
+      "id": 2521485,
+      "city": "Atarfe"
+    },
+    {
+      "id": 3105763,
+      "city": "Atarrabia"
+    },
+    {
+      "id": 3129199,
+      "city": "Ateca"
+    },
+    {
+      "id": 3129169,
+      "city": "Autol"
+    },
+    {
+      "id": 3129136,
+      "city": "Avila de los Caballeros"
+    },
+    {
+      "id": 3129135,
+      "city": "Aviles"
+    },
+    {
+      "id": 3129128,
+      "city": "Avinyo"
+    },
+    {
+      "id": 3129126,
+      "city": "Avion"
+    },
+    {
+      "id": 2521456,
+      "city": "Ayamonte"
+    },
+    {
+      "id": 2521451,
+      "city": "Ayora"
+    },
+    {
+      "id": 3129086,
+      "city": "Azagra"
+    },
+    {
+      "id": 3129071,
+      "city": "Azkoitia"
+    },
+    {
+      "id": 2521440,
+      "city": "Aznalcazar"
+    },
+    {
+      "id": 2521439,
+      "city": "Aznalcollar"
+    },
+    {
+      "id": 3129059,
+      "city": "Azpeitia"
+    },
+    {
+      "id": 2521436,
+      "city": "Azuaga"
+    },
+    {
+      "id": 3129046,
+      "city": "Azuqueca de Henares"
+    },
+    {
+      "id": 2521420,
+      "city": "Badajoz"
+    },
+    {
+      "id": 3129028,
+      "city": "Badalona"
+    },
+    {
+      "id": 2521417,
+      "city": "Badolatosa"
+    },
+    {
+      "id": 2521415,
+      "city": "Baena"
+    },
+    {
+      "id": 2521413,
+      "city": "Baeza"
+    },
+    {
+      "id": 3129017,
+      "city": "Baga"
+    },
+    {
+      "id": 2521410,
+      "city": "Bailen"
+    },
+    {
+      "id": 3128462,
+      "city": "Baiona"
+    },
+    {
+      "id": 3128978,
+      "city": "Balaguer"
+    },
+    {
+      "id": 2521390,
+      "city": "Balazote"
+    },
+    {
+      "id": 3128928,
+      "city": "Balsareny"
+    },
+    {
+      "id": 3128903,
+      "city": "Bande"
+    },
+    {
+      "id": 2521351,
+      "city": "Banos de la Encina"
+    },
+    {
+      "id": 3128875,
+      "city": "Banos de Molgas"
+    },
+    {
+      "id": 3128885,
+      "city": "Banyoles"
+    },
+    {
+      "id": 3109453,
+      "city": "Barakaldo"
+    },
+    {
+      "id": 3128828,
+      "city": "Baralla"
+    },
+    {
+      "id": 3128824,
+      "city": "Baranain"
+    },
+    {
+      "id": 3128795,
+      "city": "Barbastro"
+    },
+    {
+      "id": 2521335,
+      "city": "Barbate de Franco"
+    },
+    {
+      "id": 3109804,
+      "city": "Barbera del Valles"
+    },
+    {
+      "id": 2521329,
+      "city": "Barcarrota"
+    },
+    {
+      "id": 3128760,
+      "city": "Barcelona"
+    },
+    {
+      "id": 3128745,
+      "city": "Barcena de Cicero"
+    },
+    {
+      "id": 2521316,
+      "city": "Bargas"
+    },
+    {
+      "id": 2521309,
+      "city": "Barlovento"
+    },
+    {
+      "id": 3128653,
+      "city": "Barraco"
+    },
+    {
+      "id": 2521273,
+      "city": "Barrax"
+    },
+    {
+      "id": 6697039,
+      "city": "Basauri"
+    },
+    {
+      "id": 3128482,
+      "city": "Batea"
+    },
+    {
+      "id": 2521215,
+      "city": "Baza"
+    },
+    {
+      "id": 2521212,
+      "city": "Beas"
+    },
+    {
+      "id": 2521207,
+      "city": "Beas de Segura"
+    },
+    {
+      "id": 3128436,
+      "city": "Beasain"
+    },
+    {
+      "id": 3128419,
+      "city": "Becerrea"
+    },
+    {
+      "id": 3128415,
+      "city": "Becerril de la Sierra"
+    },
+    {
+      "id": 2521192,
+      "city": "Begijar"
+    },
+    {
+      "id": 3128394,
+      "city": "Begonte"
+    },
+    {
+      "id": 3128398,
+      "city": "Begues"
+    },
+    {
+      "id": 3129007,
+      "city": "Begur"
+    },
+    {
+      "id": 3128382,
+      "city": "Bejar"
+    },
+    {
+      "id": 2521183,
+      "city": "Belalcazar"
+    },
+    {
+      "id": 3128336,
+      "city": "Bellpuig"
+    },
+    {
+      "id": 2521172,
+      "city": "Bellreguard"
+    },
+    {
+      "id": 3128331,
+      "city": "Bellvis"
+    },
+    {
+      "id": 2521167,
+      "city": "Belmez"
+    },
+    {
+      "id": 2521165,
+      "city": "Belmonte"
+    },
+    {
+      "id": 3128328,
+      "city": "Belmonte"
+    },
+    {
+      "id": 3128320,
+      "city": "Belorado"
+    },
+    {
+      "id": 3128308,
+      "city": "Bembibre"
+    },
+    {
+      "id": 2521154,
+      "city": "Benacazon"
+    },
+    {
+      "id": 2521148,
+      "city": "Benaguasil"
+    },
+    {
+      "id": 2521147,
+      "city": "Benahadux"
+    },
+    {
+      "id": 2521146,
+      "city": "Benahavis"
+    },
+    {
+      "id": 2521139,
+      "city": "Benalmadena"
+    },
+    {
+      "id": 2521137,
+      "city": "Benalua de Guadix"
+    },
+    {
+      "id": 2521131,
+      "city": "Benamaurel"
+    },
+    {
+      "id": 2521130,
+      "city": "Benameji"
+    },
+    {
+      "id": 2521128,
+      "city": "Benamocarra"
+    },
+    {
+      "id": 3128296,
+      "city": "Benasque"
+    },
+    {
+      "id": 3128291,
+      "city": "Benavente"
+    },
+    {
+      "id": 3128290,
+      "city": "Benavides"
+    },
+    {
+      "id": 2521108,
+      "city": "Beneixama"
+    },
+    {
+      "id": 2521106,
+      "city": "Benejuzar"
+    },
+    {
+      "id": 2521105,
+      "city": "Benetusser"
+    },
+    {
+      "id": 3128273,
+      "city": "Benicarlo"
+    },
+    {
+      "id": 3128272,
+      "city": "Benicassim"
+    },
+    {
+      "id": 2521088,
+      "city": "Benidorm"
+    },
+    {
+      "id": 2521086,
+      "city": "Beniel"
+    },
+    {
+      "id": 2521080,
+      "city": "Benifaio"
+    },
+    {
+      "id": 2521085,
+      "city": "Benifairo de les Valls"
+    },
+    {
+      "id": 2521075,
+      "city": "Beniganim"
+    },
+    {
+      "id": 2521072,
+      "city": "Benijofar"
+    },
+    {
+      "id": 2521060,
+      "city": "Benimodo"
+    },
+    {
+      "id": 2521049,
+      "city": "Benisano"
+    },
+    {
+      "id": 2521050,
+      "city": "Benissa"
+    },
+    {
+      "id": 2521044,
+      "city": "Benitachell"
+    },
+    {
+      "id": 3106112,
+      "city": "Bera"
+    },
+    {
+      "id": 3128248,
+      "city": "Berango"
+    },
+    {
+      "id": 3128201,
+      "city": "Berga"
+    },
+    {
+      "id": 3106090,
+      "city": "Bergara"
+    },
+    {
+      "id": 3128190,
+      "city": "Bergondo"
+    },
+    {
+      "id": 3128184,
+      "city": "Beriain"
+    },
+    {
+      "id": 2521016,
+      "city": "Berja"
+    },
+    {
+      "id": 2521015,
+      "city": "Berlanga"
+    },
+    {
+      "id": 3128174,
+      "city": "Bermeo"
+    },
+    {
+      "id": 3128130,
+      "city": "Berriozar"
+    },
+    {
+      "id": 3128129,
+      "city": "Berriz"
+    },
+    {
+      "id": 3128096,
+      "city": "Besalu"
+    },
+    {
+      "id": 3128090,
+      "city": "Bescano"
+    },
+    {
+      "id": 3128071,
+      "city": "Betanzos"
+    },
+    {
+      "id": 2520968,
+      "city": "Betera"
+    },
+    {
+      "id": 2520964,
+      "city": "Biar"
+    },
+    {
+      "id": 2520957,
+      "city": "Bienvenida"
+    },
+    {
+      "id": 2520955,
+      "city": "Bigastro"
+    },
+    {
+      "id": 3128030,
+      "city": "Bigues i Riells"
+    },
+    {
+      "id": 3128026,
+      "city": "Bilbao"
+    },
+    {
+      "id": 3128019,
+      "city": "Bimenes"
+    },
+    {
+      "id": 3128015,
+      "city": "Binefar"
+    },
+    {
+      "id": 2520943,
+      "city": "Binissalem"
+    },
+    {
+      "id": 2520940,
+      "city": "Blanca"
+    },
+    {
+      "id": 3127978,
+      "city": "Blanes"
+    },
+    {
+      "id": 3127958,
+      "city": "Boadilla del Monte"
+    },
+    {
+      "id": 3127954,
+      "city": "Boal"
+    },
+    {
+      "id": 3127952,
+      "city": "Boalo"
+    },
+    {
+      "id": 3127935,
+      "city": "Boboras"
+    },
+    {
+      "id": 2520898,
+      "city": "Bocairent"
+    },
+    {
+      "id": 3127913,
+      "city": "Boecillo"
+    },
+    {
+      "id": 3127891,
+      "city": "Boimorto"
+    },
+    {
+      "id": 3127889,
+      "city": "Boiro"
+    },
+    {
+      "id": 2520875,
+      "city": "Bolanos de Calatrava"
+    },
+    {
+      "id": 2520870,
+      "city": "Bollullos de la Mitacion"
+    },
+    {
+      "id": 2520869,
+      "city": "Bollullos par del Condado"
+    },
+    {
+      "id": 3127850,
+      "city": "Bonar"
+    },
+    {
+      "id": 2520850,
+      "city": "Bonares"
+    },
+    {
+      "id": 3127800,
+      "city": "Borja"
+    },
+    {
+      "id": 2520833,
+      "city": "Bormujos"
+    },
+    {
+      "id": 2520832,
+      "city": "Bornos"
+    },
+    {
+      "id": 3127785,
+      "city": "Borox"
+    },
+    {
+      "id": 3127773,
+      "city": "Borriol"
+    },
+    {
+      "id": 3127659,
+      "city": "Brea de Aragon"
+    },
+    {
+      "id": 3127655,
+      "city": "Breda"
+    },
+    {
+      "id": 2520800,
+      "city": "Brena Alta"
+    },
+    {
+      "id": 2520799,
+      "city": "Brena Baja"
+    },
+    {
+      "id": 2520798,
+      "city": "Brenes"
+    },
+    {
+      "id": 3127628,
+      "city": "Brihuega"
+    },
+    {
+      "id": 3127611,
+      "city": "Briviesca"
+    },
+    {
+      "id": 2520790,
+      "city": "Brozas"
+    },
+    {
+      "id": 3127588,
+      "city": "Brunete"
+    },
+    {
+      "id": 2520760,
+      "city": "Buenavista del Norte"
+    },
+    {
+      "id": 3127538,
+      "city": "Bueu"
+    },
+    {
+      "id": 2520735,
+      "city": "Bujalance"
+    },
+    {
+      "id": 2520727,
+      "city": "Bullas"
+    },
+    {
+      "id": 2520726,
+      "city": "Bunol"
+    },
+    {
+      "id": 3127489,
+      "city": "Bunuel"
+    },
+    {
+      "id": 2520724,
+      "city": "Bunyola"
+    },
+    {
+      "id": 3127476,
+      "city": "Burela de Cabo"
+    },
+    {
+      "id": 3127461,
+      "city": "Burgos"
+    },
+    {
+      "id": 2520715,
+      "city": "Burguillos"
+    },
+    {
+      "id": 2520714,
+      "city": "Burguillos del Cerro"
+    },
+    {
+      "id": 2520712,
+      "city": "Burjassot"
+    },
+    {
+      "id": 3127451,
+      "city": "Burlata"
+    },
+    {
+      "id": 2520709,
+      "city": "Burriana"
+    },
+    {
+      "id": 2520698,
+      "city": "Busot"
+    },
+    {
+      "id": 3127277,
+      "city": "Cabanes"
+    },
+    {
+      "id": 3127267,
+      "city": "Cabanillas del Campo"
+    },
+    {
+      "id": 2520672,
+      "city": "Cabeza del Buey"
+    },
+    {
+      "id": 3127226,
+      "city": "Cabezon"
+    },
+    {
+      "id": 3127224,
+      "city": "Cabezon de la Sal"
+    },
+    {
+      "id": 3127217,
+      "city": "Cabezuela del Valle"
+    },
+    {
+      "id": 2520645,
+      "city": "Cabra"
+    },
+    {
+      "id": 2520641,
+      "city": "Cabra del Santo Cristo"
+    },
+    {
+      "id": 3127161,
+      "city": "Cabrera de Mar"
+    },
+    {
+      "id": 3127159,
+      "city": "Cabrerizos"
+    },
+    {
+      "id": 3127147,
+      "city": "Cabrils"
+    },
+    {
+      "id": 3127135,
+      "city": "Cacabelos"
+    },
+    {
+      "id": 2520611,
+      "city": "Caceres"
+    },
+    {
+      "id": 3127117,
+      "city": "Cadaques"
+    },
+    {
+      "id": 2520600,
+      "city": "Cadiz"
+    },
+    {
+      "id": 3127100,
+      "city": "Cadreita"
+    },
+    {
+      "id": 3127099,
+      "city": "Cadrete"
+    },
+    {
+      "id": 2520592,
+      "city": "Cajar"
+    },
+    {
+      "id": 3127068,
+      "city": "Calaf"
+    },
+    {
+      "id": 3127066,
+      "city": "Calafell"
+    },
+    {
+      "id": 3127065,
+      "city": "Calahorra"
+    },
+    {
+      "id": 3127059,
+      "city": "Calamocha"
+    },
+    {
+      "id": 2520568,
+      "city": "Calamonte"
+    },
+    {
+      "id": 2520566,
+      "city": "Calanas"
+    },
+    {
+      "id": 3127052,
+      "city": "Calanda"
+    },
+    {
+      "id": 2520558,
+      "city": "Calasparra"
+    },
+    {
+      "id": 3127047,
+      "city": "Calatayud"
+    },
+    {
+      "id": 3127046,
+      "city": "Calatorao"
+    },
+    {
+      "id": 3127034,
+      "city": "Caldas de Reis"
+    },
+    {
+      "id": 3127035,
+      "city": "Caldes de Montbui"
+    },
+    {
+      "id": 3127007,
+      "city": "Calella"
+    },
+    {
+      "id": 2520528,
+      "city": "Calera y Chozas"
+    },
+    {
+      "id": 2520502,
+      "city": "Callosa de Segura"
+    },
+    {
+      "id": 3126974,
+      "city": "Calonge"
+    },
+    {
+      "id": 2520496,
+      "city": "Calp"
+    },
+    {
+      "id": 2520493,
+      "city": "Calvia"
+    },
+    {
+      "id": 3126922,
+      "city": "Camarena"
+    },
+    {
+      "id": 3126917,
+      "city": "Camargo"
+    },
+    {
+      "id": 3126915,
+      "city": "Camarinas"
+    },
+    {
+      "id": 3126913,
+      "city": "Camarma de Esteruelas"
+    },
+    {
+      "id": 2520477,
+      "city": "Camas"
+    },
+    {
+      "id": 3126899,
+      "city": "Cambados"
+    },
+    {
+      "id": 2520476,
+      "city": "Cambil"
+    },
+    {
+      "id": 3126890,
+      "city": "Cambre"
+    },
+    {
+      "id": 3126888,
+      "city": "Cambrils"
+    },
+    {
+      "id": 2520456,
+      "city": "Campanario"
+    },
+    {
+      "id": 2520453,
+      "city": "Campanet"
+    },
+    {
+      "id": 3126835,
+      "city": "Campdevanol"
+    },
+    {
+      "id": 2520435,
+      "city": "Campillo de Arenas"
+    },
+    {
+      "id": 2520428,
+      "city": "Campillos"
+    },
+    {
+      "id": 3126777,
+      "city": "Campo de Caso"
+    },
+    {
+      "id": 2520413,
+      "city": "Campo de Criptana"
+    },
+    {
+      "id": 3126750,
+      "city": "Campo Real"
+    },
+    {
+      "id": 3126754,
+      "city": "Camponaraya"
+    },
+    {
+      "id": 2520402,
+      "city": "Campos del Rio"
+    },
+    {
+      "id": 3126722,
+      "city": "Camprodon"
+    },
+    {
+      "id": 2520344,
+      "city": "Canada Rosal"
+    },
+    {
+      "id": 2520320,
+      "city": "Canals"
+    },
+    {
+      "id": 2520283,
+      "city": "Candelaria"
+    },
+    {
+      "id": 3126622,
+      "city": "Candeleda"
+    },
+    {
+      "id": 2520272,
+      "city": "Canena"
+    },
+    {
+      "id": 3126584,
+      "city": "Canet de Mar"
+    },
+    {
+      "id": 2520271,
+      "city": "Canet dEn Berenguer"
+    },
+    {
+      "id": 2520268,
+      "city": "Canete de las Torres"
+    },
+    {
+      "id": 2520266,
+      "city": "Canete la Real"
+    },
+    {
+      "id": 3126577,
+      "city": "Cangas"
+    },
+    {
+      "id": 3126571,
+      "city": "Cangas de Onis"
+    },
+    {
+      "id": 3126572,
+      "city": "Cangas del Narcea"
+    },
+    {
+      "id": 2520261,
+      "city": "Caniles"
+    },
+    {
+      "id": 2520254,
+      "city": "Canillas de Aceituno"
+    },
+    {
+      "id": 3126534,
+      "city": "Canovelles"
+    },
+    {
+      "id": 3126533,
+      "city": "Canoves i Samalus"
+    },
+    {
+      "id": 3126513,
+      "city": "Cantalejo"
+    },
+    {
+      "id": 2520215,
+      "city": "Cantillana"
+    },
+    {
+      "id": 2520209,
+      "city": "Cantoria"
+    },
+    {
+      "id": 3126476,
+      "city": "Caparroso"
+    },
+    {
+      "id": 2520200,
+      "city": "Capdepera"
+    },
+    {
+      "id": 3126466,
+      "city": "Capellades"
+    },
+    {
+      "id": 2520171,
+      "city": "Caravaca"
+    },
+    {
+      "id": 3126397,
+      "city": "Carbajosa de la Sagrada"
+    },
+    {
+      "id": 3126369,
+      "city": "Carballo"
+    },
+    {
+      "id": 2520163,
+      "city": "Carboneras"
+    },
+    {
+      "id": 3126344,
+      "city": "Carbonero el Mayor"
+    },
+    {
+      "id": 2520151,
+      "city": "Carcabuey"
+    },
+    {
+      "id": 2520150,
+      "city": "Carcaixent"
+    },
+    {
+      "id": 3126331,
+      "city": "Carcastillo"
+    },
+    {
+      "id": 2520144,
+      "city": "Carcer"
+    },
+    {
+      "id": 3126317,
+      "city": "Cardedeu"
+    },
+    {
+      "id": 3126293,
+      "city": "Cardona"
+    },
+    {
+      "id": 3126278,
+      "city": "Carinena"
+    },
+    {
+      "id": 3126276,
+      "city": "Carino"
+    },
+    {
+      "id": 2520121,
+      "city": "Carlet"
+    },
+    {
+      "id": 2520118,
+      "city": "Carmona"
+    },
+    {
+      "id": 3126254,
+      "city": "Carnota"
+    },
+    {
+      "id": 3126237,
+      "city": "Carracedelo"
+    },
+    {
+      "id": 3126222,
+      "city": "Carral"
+    },
+    {
+      "id": 3126214,
+      "city": "Carranque"
+    },
+    {
+      "id": 3126178,
+      "city": "Carrena"
+    },
+    {
+      "id": 2520072,
+      "city": "Carrion de Calatrava"
+    },
+    {
+      "id": 2520071,
+      "city": "Carrion de los Cespedes"
+    },
+    {
+      "id": 3126161,
+      "city": "Carrion de los Condes"
+    },
+    {
+      "id": 3126155,
+      "city": "Carrizo de la Ribera"
+    },
+    {
+      "id": 2520058,
+      "city": "Cartagena"
+    },
+    {
+      "id": 2520055,
+      "city": "Cartama"
+    },
+    {
+      "id": 2520052,
+      "city": "Cartaya"
+    },
+    {
+      "id": 3126141,
+      "city": "Cartelle"
+    },
+    {
+      "id": 3126139,
+      "city": "Cartes"
+    },
+    {
+      "id": 2520045,
+      "city": "Casabermeja"
+    },
+    {
+      "id": 2519985,
+      "city": "Casar de Caceres"
+    },
+    {
+      "id": 2519988,
+      "city": "Casarabonela"
+    },
+    {
+      "id": 2519980,
+      "city": "Casares"
+    },
+    {
+      "id": 2519979,
+      "city": "Casariche"
+    },
+    {
+      "id": 3126083,
+      "city": "Casarrubios del Monte"
+    },
+    {
+      "id": 3126082,
+      "city": "Casarrubuelos"
+    },
+    {
+      "id": 2519880,
+      "city": "Casas Ibanez"
+    },
+    {
+      "id": 2519879,
+      "city": "Casasimarro"
+    },
+    {
+      "id": 2519786,
+      "city": "Casinos"
+    },
+    {
+      "id": 3125994,
+      "city": "Caspe"
+    },
+    {
+      "id": 3125991,
+      "city": "Cassa de la Selva"
+    },
+    {
+      "id": 2519783,
+      "city": "Castalla"
+    },
+    {
+      "id": 3125982,
+      "city": "Castandiello"
+    },
+    {
+      "id": 3125951,
+      "city": "Castejon"
+    },
+    {
+      "id": 3125800,
+      "city": "Castell-Platja dAro"
+    },
+    {
+      "id": 2519763,
+      "city": "Castellar de la Frontera"
+    },
+    {
+      "id": 2519762,
+      "city": "Castellar de Santiago"
+    },
+    {
+      "id": 3125915,
+      "city": "Castellar del Valles"
+    },
+    {
+      "id": 3125904,
+      "city": "Castellbisbal"
+    },
+    {
+      "id": 3125897,
+      "city": "Castelldefels"
+    },
+    {
+      "id": 3125895,
+      "city": "Castellet"
+    },
+    {
+      "id": 2519752,
+      "city": "Castello de la Plana"
+    },
+    {
+      "id": 2519751,
+      "city": "Castello de Rugat"
+    },
+    {
+      "id": 3125884,
+      "city": "Castello dEmpuries"
+    },
+    {
+      "id": 2519746,
+      "city": "Castilblanco de los Arroyos"
+    },
+    {
+      "id": 2519739,
+      "city": "Castilleja de Guzman"
+    },
+    {
+      "id": 2519738,
+      "city": "Castilleja de la Cuesta"
+    },
+    {
+      "id": 2519711,
+      "city": "Castillo de Locubin"
+    },
+    {
+      "id": 3125758,
+      "city": "Castrelo de Mino"
+    },
+    {
+      "id": 2519703,
+      "city": "Castril"
+    },
+    {
+      "id": 3125723,
+      "city": "Castrillon"
+    },
+    {
+      "id": 3125713,
+      "city": "Castro"
+    },
+    {
+      "id": 2519697,
+      "city": "Castro del Rio"
+    },
+    {
+      "id": 3125621,
+      "city": "Castro-Urdiales"
+    },
+    {
+      "id": 3125616,
+      "city": "Castroverde"
+    },
+    {
+      "id": 2519696,
+      "city": "Castuera"
+    },
+    {
+      "id": 2519694,
+      "city": "Catadau"
+    },
+    {
+      "id": 2519690,
+      "city": "Catarroja"
+    },
+    {
+      "id": 3125602,
+      "city": "Catoira"
+    },
+    {
+      "id": 2519688,
+      "city": "Catral"
+    },
+    {
+      "id": 2519685,
+      "city": "Caudete"
+    },
+    {
+      "id": 2519672,
+      "city": "Cazorla"
+    },
+    {
+      "id": 3125569,
+      "city": "Cea"
+    },
+    {
+      "id": 2519664,
+      "city": "Cebolla"
+    },
+    {
+      "id": 3125548,
+      "city": "Cebreros"
+    },
+    {
+      "id": 2519659,
+      "city": "Ceclavin"
+    },
+    {
+      "id": 3125537,
+      "city": "Cedeira"
+    },
+    {
+      "id": 3125533,
+      "city": "Cedillo del Condado"
+    },
+    {
+      "id": 2519651,
+      "city": "Cehegin"
+    },
+    {
+      "id": 3125488,
+      "city": "Celanova"
+    },
+    {
+      "id": 3125480,
+      "city": "Cella"
+    },
+    {
+      "id": 3125469,
+      "city": "Celra"
+    },
+    {
+      "id": 2519634,
+      "city": "Cenes de la Vega"
+    },
+    {
+      "id": 3125449,
+      "city": "Cenicero"
+    },
+    {
+      "id": 3125442,
+      "city": "Centelles"
+    },
+    {
+      "id": 3125408,
+      "city": "Cercedilla"
+    },
+    {
+      "id": 3109402,
+      "city": "Cerdanyola del Valles"
+    },
+    {
+      "id": 3125309,
+      "city": "Cervello"
+    },
+    {
+      "id": 3125308,
+      "city": "Cervera"
+    },
+    {
+      "id": 3125296,
+      "city": "Cervera de Pisuerga"
+    },
+    {
+      "id": 3125297,
+      "city": "Cervera del Rio Alhama"
+    },
+    {
+      "id": 3125287,
+      "city": "Cervo"
+    },
+    {
+      "id": 3125271,
+      "city": "Cesuras"
+    },
+    {
+      "id": 6362987,
+      "city": "Ceuta"
+    },
+    {
+      "id": 2519579,
+      "city": "Ceuti"
+    },
+    {
+      "id": 3125212,
+      "city": "Chantada"
+    },
+    {
+      "id": 2519534,
+      "city": "Chauchina"
+    },
+    {
+      "id": 2519529,
+      "city": "Chella"
+    },
+    {
+      "id": 2519528,
+      "city": "Chelva"
+    },
+    {
+      "id": 2519522,
+      "city": "Cheste"
+    },
+    {
+      "id": 2519513,
+      "city": "Chiclana de la Frontera"
+    },
+    {
+      "id": 2519503,
+      "city": "Chilches"
+    },
+    {
+      "id": 2519483,
+      "city": "Chinchilla de Monte Aragon"
+    },
+    {
+      "id": 3125144,
+      "city": "Chinchon"
+    },
+    {
+      "id": 2519477,
+      "city": "Chipiona"
+    },
+    {
+      "id": 2519464,
+      "city": "Chiva"
+    },
+    {
+      "id": 3125110,
+      "city": "Chozas de Abajo"
+    },
+    {
+      "id": 3125108,
+      "city": "Chozas de Canales"
+    },
+    {
+      "id": 2519447,
+      "city": "Chucena"
+    },
+    {
+      "id": 2519436,
+      "city": "Churriana de la Vega"
+    },
+    {
+      "id": 3125082,
+      "city": "Ciempozuelos"
+    },
+    {
+      "id": 2519425,
+      "city": "Cieza"
+    },
+    {
+      "id": 3125072,
+      "city": "Cifuentes"
+    },
+    {
+      "id": 3125068,
+      "city": "Cigales"
+    },
+    {
+      "id": 2519421,
+      "city": "Cijuela"
+    },
+    {
+      "id": 3125047,
+      "city": "Cilleros"
+    },
+    {
+      "id": 3125009,
+      "city": "Cintruenigo"
+    },
+    {
+      "id": 3124971,
+      "city": "Cisterniga"
+    },
+    {
+      "id": 3124970,
+      "city": "Cistierna"
+    },
+    {
+      "id": 2519402,
+      "city": "Ciudad Real"
+    },
+    {
+      "id": 3124963,
+      "city": "Ciudad Rodrigo"
+    },
+    {
+      "id": 3124967,
+      "city": "Ciutadella"
+    },
+    {
+      "id": 6544106,
+      "city": "Ciutat Vella"
+    },
+    {
+      "id": 3124955,
+      "city": "Cizur Mayor"
+    },
+    {
+      "id": 3124925,
+      "city": "Coana"
+    },
+    {
+      "id": 3124914,
+      "city": "Cobeja"
+    },
+    {
+      "id": 3124911,
+      "city": "Cobena"
+    },
+    {
+      "id": 2519385,
+      "city": "Cobisa"
+    },
+    {
+      "id": 3124895,
+      "city": "Coca"
+    },
+    {
+      "id": 2519382,
+      "city": "Cocentaina"
+    },
+    {
+      "id": 2519367,
+      "city": "Coin"
+    },
+    {
+      "id": 3124828,
+      "city": "Coles"
+    },
+    {
+      "id": 3124821,
+      "city": "Colindres"
+    },
+    {
+      "id": 3124798,
+      "city": "Collado Mediano"
+    },
+    {
+      "id": 3124794,
+      "city": "Collado-Villalba"
+    },
+    {
+      "id": 3124786,
+      "city": "Collbato"
+    },
+    {
+      "id": 2519352,
+      "city": "Colmenar"
+    },
+    {
+      "id": 3124769,
+      "city": "Colmenar de Oreja"
+    },
+    {
+      "id": 3124765,
+      "city": "Colmenar Viejo"
+    },
+    {
+      "id": 3124768,
+      "city": "Colmenarejo"
+    },
+    {
+      "id": 3124751,
+      "city": "Colunga"
+    },
+    {
+      "id": 3124727,
+      "city": "Comillas"
+    },
+    {
+      "id": 2519289,
+      "city": "Conil de la Frontera"
+    },
+    {
+      "id": 2519283,
+      "city": "Consell"
+    },
+    {
+      "id": 3124661,
+      "city": "Constanti"
+    },
+    {
+      "id": 2519277,
+      "city": "Consuegra"
+    },
+    {
+      "id": 2519264,
+      "city": "Corbera"
+    },
+    {
+      "id": 3124628,
+      "city": "Corbera de Llobregat"
+    },
+    {
+      "id": 2519240,
+      "city": "Cordoba"
+    },
+    {
+      "id": 3124600,
+      "city": "Corella"
+    },
+    {
+      "id": 3124594,
+      "city": "Corgo"
+    },
+    {
+      "id": 2519234,
+      "city": "Coria"
+    },
+    {
+      "id": 2519233,
+      "city": "Coria del Rio"
+    },
+    {
+      "id": 3124589,
+      "city": "Coristanco"
+    },
+    {
+      "id": 3124569,
+      "city": "Cornella de Llobregat"
+    },
+    {
+      "id": 2519221,
+      "city": "Corral de Almaguer"
+    },
+    {
+      "id": 2519217,
+      "city": "Corralejo"
+    },
+    {
+      "id": 2519199,
+      "city": "Cortes de Baza"
+    },
+    {
+      "id": 2519198,
+      "city": "Cortes de la Frontera"
+    },
+    {
+      "id": 3124432,
+      "city": "Corvera"
+    },
+    {
+      "id": 7115111,
+      "city": "Corvera de Asturias"
+    },
+    {
+      "id": 3124408,
+      "city": "Coslada"
+    },
+    {
+      "id": 3124316,
+      "city": "Covaleda"
+    },
+    {
+      "id": 3124297,
+      "city": "Covelo"
+    },
+    {
+      "id": 2519120,
+      "city": "Cox"
+    },
+    {
+      "id": 3124285,
+      "city": "Creixell"
+    },
+    {
+      "id": 2519110,
+      "city": "Crevillente"
+    },
+    {
+      "id": 2521602,
+      "city": "Cruce de Arinaga"
+    },
+    {
+      "id": 3124219,
+      "city": "Cualedro"
+    },
+    {
+      "id": 3124215,
+      "city": "Cuarte de Huerva"
+    },
+    {
+      "id": 3124209,
+      "city": "Cubas"
+    },
+    {
+      "id": 3124201,
+      "city": "Cubelles"
+    },
+    {
+      "id": 3124142,
+      "city": "Cudillero"
+    },
+    {
+      "id": 3124136,
+      "city": "Cuellar"
+    },
+    {
+      "id": 3124132,
+      "city": "Cuenca"
+    },
+    {
+      "id": 2518969,
+      "city": "Cuevas de San Marcos"
+    },
+    {
+      "id": 2518988,
+      "city": "Cuevas del Almanzora"
+    },
+    {
+      "id": 2518981,
+      "city": "Cuevas del Campo"
+    },
+    {
+      "id": 2518950,
+      "city": "Cullar-Vega"
+    },
+    {
+      "id": 2518949,
+      "city": "Cullera"
+    },
+    {
+      "id": 3124041,
+      "city": "Culleredo"
+    },
+    {
+      "id": 3124026,
+      "city": "Cunit"
+    },
+    {
+      "id": 3124021,
+      "city": "Cuntis"
+    },
+    {
+      "id": 3124002,
+      "city": "Curtis"
+    },
+    {
+      "id": 3123981,
+      "city": "Daganzo de Arriba"
+    },
+    {
+      "id": 2518924,
+      "city": "Daimiel"
+    },
+    {
+      "id": 2518923,
+      "city": "Daimus"
+    },
+    {
+      "id": 2518921,
+      "city": "Dalias"
+    },
+    {
+      "id": 3123969,
+      "city": "Daroca"
+    },
+    {
+      "id": 3123910,
+      "city": "Deba"
+    },
+    {
+      "id": 2518882,
+      "city": "Deifontes"
+    },
+    {
+      "id": 6615440,
+      "city": "Delicias"
+    },
+    {
+      "id": 6559504,
+      "city": "Deltebre"
+    },
+    {
+      "id": 2518878,
+      "city": "Denia"
+    },
+    {
+      "id": 3123921,
+      "city": "Derio"
+    },
+    {
+      "id": 2518842,
+      "city": "Dolores"
+    },
+    {
+      "id": 2518820,
+      "city": "Don Benito"
+    },
+    {
+      "id": 2518825,
+      "city": "Dona Mencia"
+    },
+    {
+      "id": 2518794,
+      "city": "Dos Hermanas"
+    },
+    {
+      "id": 2518791,
+      "city": "Dos Torres"
+    },
+    {
+      "id": 2518796,
+      "city": "Dosbarrios"
+    },
+    {
+      "id": 3123801,
+      "city": "Dosrius"
+    },
+    {
+      "id": 3123797,
+      "city": "Dozon"
+    },
+    {
+      "id": 3123786,
+      "city": "Duenas"
+    },
+    {
+      "id": 3123779,
+      "city": "Dumbria"
+    },
+    {
+      "id": 3123773,
+      "city": "Durango"
+    },
+    {
+      "id": 2518774,
+      "city": "Durcal"
+    },
+    {
+      "id": 3123738,
+      "city": "Echarri-Aranaz"
+    },
+    {
+      "id": 2518770,
+      "city": "Ecija"
+    },
+    {
+      "id": 3120567,
+      "city": "Egues-Uharte"
+    },
+    {
+      "id": 3123709,
+      "city": "Eibar"
+    },
+    {
+      "id": 6544100,
+      "city": "Eixample"
+    },
+    {
+      "id": 3123688,
+      "city": "Ejea de los Caballeros"
+    },
+    {
+      "id": 3123682,
+      "city": "El Alamo"
+    },
+    {
+      "id": 2518729,
+      "city": "El Arahal"
+    },
+    {
+      "id": 3123667,
+      "city": "El Astillero"
+    },
+    {
+      "id": 3123659,
+      "city": "El Barco de Avila"
+    },
+    {
+      "id": 2518684,
+      "city": "El Bonillo"
+    },
+    {
+      "id": 2518682,
+      "city": "El Bosque"
+    },
+    {
+      "id": 3123622,
+      "city": "El Burgo de Osma"
+    },
+    {
+      "id": 2520447,
+      "city": "el Campello"
+    },
+    {
+      "id": 2518607,
+      "city": "El Carpio"
+    },
+    {
+      "id": 2518606,
+      "city": "El Carpio de Tajo"
+    },
+    {
+      "id": 2518597,
+      "city": "El Casar"
+    },
+    {
+      "id": 2518575,
+      "city": "El Cerro de Andevalo"
+    },
+    {
+      "id": 2518521,
+      "city": "El Coronil"
+    },
+    {
+      "id": 3123531,
+      "city": "El Corrillo"
+    },
+    {
+      "id": 2518494,
+      "city": "El Ejido"
+    },
+    {
+      "id": 6694300,
+      "city": "El entrego"
+    },
+    {
+      "id": 3123504,
+      "city": "El Escorial"
+    },
+    {
+      "id": 3123488,
+      "city": "El Franco"
+    },
+    {
+      "id": 2518455,
+      "city": "El Gastor"
+    },
+    {
+      "id": 3123455,
+      "city": "El Hoyo de Pinares"
+    },
+    {
+      "id": 3117232,
+      "city": "El Masnou"
+    },
+    {
+      "id": 3123421,
+      "city": "El Molar"
+    },
+    {
+      "id": 2518277,
+      "city": "El Paso"
+    },
+    {
+      "id": 3113733,
+      "city": "el Perello"
+    },
+    {
+      "id": 3113349,
+      "city": "El Pla de Santa Maria"
+    },
+    {
+      "id": 3123329,
+      "city": "El Prat de Llobregat"
+    },
+    {
+      "id": 2518224,
+      "city": "El Provencio"
+    },
+    {
+      "id": 2518207,
+      "city": "El Puerto de Santa Maria"
+    },
+    {
+      "id": 2518129,
+      "city": "El Rubio"
+    },
+    {
+      "id": 2518113,
+      "city": "El Saucejo"
+    },
+    {
+      "id": 3123246,
+      "city": "El Tiemblo"
+    },
+    {
+      "id": 2518078,
+      "city": "El Toboso"
+    },
+    {
+      "id": 2518052,
+      "city": "El Varadero"
+    },
+    {
+      "id": 3106180,
+      "city": "El Vendrell"
+    },
+    {
+      "id": 2518042,
+      "city": "El Viso"
+    },
+    {
+      "id": 3123206,
+      "city": "El Viso de San Juan"
+    },
+    {
+      "id": 2518040,
+      "city": "El Viso del Alcor"
+    },
+    {
+      "id": 2518559,
+      "city": "Elche"
+    },
+    {
+      "id": 2518555,
+      "city": "Elche de la Sierra"
+    },
+    {
+      "id": 2518505,
+      "city": "Elda"
+    },
+    {
+      "id": 3123478,
+      "city": "Elgoibar"
+    },
+    {
+      "id": 3123399,
+      "city": "Elorrio"
+    },
+    {
+      "id": 3123398,
+      "city": "Elorz"
+    },
+    {
+      "id": 3123473,
+      "city": "Empuriabrava"
+    },
+    {
+      "id": 2518019,
+      "city": "Encinas Reales"
+    },
+    {
+      "id": 2518011,
+      "city": "Enguera"
+    },
+    {
+      "id": 3123106,
+      "city": "Epila"
+    },
+    {
+      "id": 3123104,
+      "city": "Erandio"
+    },
+    {
+      "id": 8050880,
+      "city": "Ermitagana"
+    },
+    {
+      "id": 3123063,
+      "city": "Ermua"
+    },
+    {
+      "id": 3112011,
+      "city": "Errenteria"
+    },
+    {
+      "id": 2509607,
+      "city": "Es Castell"
+    },
+    {
+      "id": 2513922,
+      "city": "Es Mercadal"
+    },
+    {
+      "id": 2517964,
+      "city": "Escacena del Campo"
+    },
+    {
+      "id": 3123024,
+      "city": "Escalona"
+    },
+    {
+      "id": 3122970,
+      "city": "Eskoriatza"
+    },
+    {
+      "id": 3122912,
+      "city": "Esparreguera"
+    },
+    {
+      "id": 2517903,
+      "city": "Espartinas"
+    },
+    {
+      "id": 2517900,
+      "city": "Espejo"
+    },
+    {
+      "id": 2517897,
+      "city": "Espera"
+    },
+    {
+      "id": 2517894,
+      "city": "Espiel"
+    },
+    {
+      "id": 3122838,
+      "city": "Espinosa de los Monteros"
+    },
+    {
+      "id": 3122826,
+      "city": "Esplugues de Llobregat"
+    },
+    {
+      "id": 2517880,
+      "city": "Esporles"
+    },
+    {
+      "id": 3122807,
+      "city": "Esquivias"
+    },
+    {
+      "id": 2520053,
+      "city": "Estacion de Cartama"
+    },
+    {
+      "id": 3122762,
+      "city": "Estella"
+    },
+    {
+      "id": 2517820,
+      "city": "Estepa"
+    },
+    {
+      "id": 2517816,
+      "city": "Estepona"
+    },
+    {
+      "id": 3122709,
+      "city": "Ezcaray"
+    },
+    {
+      "id": 3122695,
+      "city": "Fabero"
+    },
+    {
+      "id": 3122667,
+      "city": "Falces"
+    },
+    {
+      "id": 3122656,
+      "city": "Falset"
+    },
+    {
+      "id": 2517763,
+      "city": "Fasnia"
+    },
+    {
+      "id": 2517755,
+      "city": "Faura"
+    },
+    {
+      "id": 2517750,
+      "city": "Felanitx"
+    },
+    {
+      "id": 3122564,
+      "city": "Fene"
+    },
+    {
+      "id": 2517740,
+      "city": "Fernan-Nunez"
+    },
+    {
+      "id": 2517733,
+      "city": "Ferreries"
+    },
+    {
+      "id": 3123493,
+      "city": "Ferrol"
+    },
+    {
+      "id": 3122452,
+      "city": "Figueras"
+    },
+    {
+      "id": 3122453,
+      "city": "Figueres"
+    },
+    {
+      "id": 2517722,
+      "city": "Finana"
+    },
+    {
+      "id": 2517720,
+      "city": "Fines"
+    },
+    {
+      "id": 2517719,
+      "city": "Finestrat"
+    },
+    {
+      "id": 2517717,
+      "city": "Firgas"
+    },
+    {
+      "id": 3122426,
+      "city": "Fisterra"
+    },
+    {
+      "id": 3122415,
+      "city": "Fitero"
+    },
+    {
+      "id": 3122407,
+      "city": "Flix"
+    },
+    {
+      "id": 2517675,
+      "city": "Foios"
+    },
+    {
+      "id": 3122313,
+      "city": "Fonsagrada"
+    },
+    {
+      "id": 2517689,
+      "city": "Formentera de Segura"
+    },
+    {
+      "id": 3122198,
+      "city": "Fornelos de Montes"
+    },
+    {
+      "id": 2517679,
+      "city": "Fortuna"
+    },
+    {
+      "id": 3122172,
+      "city": "Foz"
+    },
+    {
+      "id": 3122157,
+      "city": "Fraga"
+    },
+    {
+      "id": 2517643,
+      "city": "Fregenal de la Sierra"
+    },
+    {
+      "id": 2517618,
+      "city": "Frigiliana"
+    },
+    {
+      "id": 3122002,
+      "city": "Friol"
+    },
+    {
+      "id": 2517611,
+      "city": "Frontera"
+    },
+    {
+      "id": 2517595,
+      "city": "Fuengirola"
+    },
+    {
+      "id": 3121960,
+      "city": "Fuenlabrada"
+    },
+    {
+      "id": 2517591,
+      "city": "Fuenlabrada de los Montes"
+    },
+    {
+      "id": 3121959,
+      "city": "Fuenmayor"
+    },
+    {
+      "id": 3121956,
+      "city": "Fuensalida"
+    },
+    {
+      "id": 2517581,
+      "city": "Fuensanta de Martos"
+    },
+    {
+      "id": 2517560,
+      "city": "Fuente de Cantos"
+    },
+    {
+      "id": 2517534,
+      "city": "Fuente de Piedra"
+    },
+    {
+      "id": 2517547,
+      "city": "Fuente del Maestre"
+    },
+    {
+      "id": 2517530,
+      "city": "Fuente el Fresno"
+    },
+    {
+      "id": 3121926,
+      "city": "Fuente el Saz"
+    },
+    {
+      "id": 2517515,
+      "city": "Fuente Obejuna"
+    },
+    {
+      "id": 2517512,
+      "city": "Fuente Palmera"
+    },
+    {
+      "id": 2517493,
+      "city": "Fuente Vaqueros"
+    },
+    {
+      "id": 2517576,
+      "city": "Fuente-Alamo"
+    },
+    {
+      "id": 2517574,
+      "city": "Fuente-Alamo de Murcia"
+    },
+    {
+      "id": 2517573,
+      "city": "Fuentealbilla"
+    },
+    {
+      "id": 3121881,
+      "city": "Fuenterrabia"
+    },
+    {
+      "id": 2517500,
+      "city": "Fuentes de Andalucia"
+    },
+    {
+      "id": 3121849,
+      "city": "Fuentes de Ebro"
+    },
+    {
+      "id": 2517498,
+      "city": "Fuentes de Leon"
+    },
+    {
+      "id": 3121806,
+      "city": "Funes"
+    },
+    {
+      "id": 3121796,
+      "city": "Fustinana"
+    },
+    {
+      "id": 2517460,
+      "city": "Gador"
+    },
+    {
+      "id": 3121766,
+      "city": "Galapagar"
+    },
+    {
+      "id": 3121751,
+      "city": "Galdakao"
+    },
+    {
+      "id": 2517436,
+      "city": "Galdar"
+    },
+    {
+      "id": 2517409,
+      "city": "Galisteo"
+    },
+    {
+      "id": 3121679,
+      "city": "Gallur"
+    },
+    {
+      "id": 2517383,
+      "city": "Galvez"
+    },
+    {
+      "id": 3121642,
+      "city": "Gandesa"
+    },
+    {
+      "id": 2517367,
+      "city": "Gandia"
+    },
+    {
+      "id": 2517349,
+      "city": "Garachico"
+    },
+    {
+      "id": 2517350,
+      "city": "Garachico"
+    },
+    {
+      "id": 2517346,
+      "city": "Garafia"
+    },
+    {
+      "id": 2517311,
+      "city": "Garrovillas"
+    },
+    {
+      "id": 2517310,
+      "city": "Garrucha"
+    },
+    {
+      "id": 2517298,
+      "city": "Gata de Gorgos"
+    },
+    {
+      "id": 3121519,
+      "city": "Gava"
+    },
+    {
+      "id": 3121486,
+      "city": "Gelida"
+    },
+    {
+      "id": 2517262,
+      "city": "Gelves"
+    },
+    {
+      "id": 2517252,
+      "city": "Genoves"
+    },
+    {
+      "id": 2517249,
+      "city": "Gerena"
+    },
+    {
+      "id": 2517242,
+      "city": "Gerindote"
+    },
+    {
+      "id": 3120989,
+      "city": "Gernika-Lumo"
+    },
+    {
+      "id": 3121437,
+      "city": "Getafe"
+    },
+    {
+      "id": 3120985,
+      "city": "Getaria"
+    },
+    {
+      "id": 3121007,
+      "city": "Getxo"
+    },
+    {
+      "id": 2517236,
+      "city": "Gibraleon"
+    },
+    {
+      "id": 3121424,
+      "city": "Gijon"
+    },
+    {
+      "id": 2517225,
+      "city": "Gilena"
+    },
+    {
+      "id": 2517223,
+      "city": "Gilet"
+    },
+    {
+      "id": 2517217,
+      "city": "Gines"
+    },
+    {
+      "id": 3121456,
+      "city": "Girona"
+    },
+    {
+      "id": 3121397,
+      "city": "Gironella"
+    },
+    {
+      "id": 2517200,
+      "city": "Godella"
+    },
+    {
+      "id": 2517199,
+      "city": "Godelleta"
+    },
+    {
+      "id": 2517197,
+      "city": "Gojar"
+    },
+    {
+      "id": 3121316,
+      "city": "Gondomar"
+    },
+    {
+      "id": 3121286,
+      "city": "Gorliz-Elexalde"
+    },
+    {
+      "id": 3121238,
+      "city": "Grado"
+    },
+    {
+      "id": 2517117,
+      "city": "Granada"
+    },
+    {
+      "id": 2517111,
+      "city": "Granadilla de Abona"
+    },
+    {
+      "id": 3121161,
+      "city": "Granen"
+    },
+    {
+      "id": 2517060,
+      "city": "Granja de Rocamora"
+    },
+    {
+      "id": 2517059,
+      "city": "Granja de Torrehermosa"
+    },
+    {
+      "id": 3121145,
+      "city": "Granollers"
+    },
+    {
+      "id": 3121135,
+      "city": "Graus"
+    },
+    {
+      "id": 2517049,
+      "city": "Grazalema"
+    },
+    {
+      "id": 3121105,
+      "city": "Grinon"
+    },
+    {
+      "id": 2567529,
+      "city": "Groa de Murviedro"
+    },
+    {
+      "id": 2517023,
+      "city": "Guadahortuna"
+    },
+    {
+      "id": 3121070,
+      "city": "Guadalajara"
+    },
+    {
+      "id": 3121065,
+      "city": "Guadalix de la Sierra"
+    },
+    {
+      "id": 2516970,
+      "city": "Guadalupe"
+    },
+    {
+      "id": 3121058,
+      "city": "Guadarrama"
+    },
+    {
+      "id": 2516944,
+      "city": "Guadassuar"
+    },
+    {
+      "id": 2516925,
+      "city": "Guadix"
+    },
+    {
+      "id": 2516915,
+      "city": "Gualchos"
+    },
+    {
+      "id": 2516902,
+      "city": "Guardamar del Segura"
+    },
+    {
+      "id": 3121029,
+      "city": "Guardo"
+    },
+    {
+      "id": 2516896,
+      "city": "Guarena"
+    },
+    {
+      "id": 2516892,
+      "city": "Guaro"
+    },
+    {
+      "id": 2516887,
+      "city": "Guarroman"
+    },
+    {
+      "id": 2516873,
+      "city": "Guejar-Sierra"
+    },
+    {
+      "id": 3120998,
+      "city": "Guenes"
+    },
+    {
+      "id": 2516865,
+      "city": "Guevejar"
+    },
+    {
+      "id": 2516861,
+      "city": "Guia"
+    },
+    {
+      "id": 2516860,
+      "city": "Guia de Isora"
+    },
+    {
+      "id": 3120963,
+      "city": "Guijuelo"
+    },
+    {
+      "id": 2516855,
+      "city": "Guillena"
+    },
+    {
+      "id": 2516852,
+      "city": "Guimar"
+    },
+    {
+      "id": 3120928,
+      "city": "Guitiriz"
+    },
+    {
+      "id": 3123462,
+      "city": "Gurb"
+    },
+    {
+      "id": 2516814,
+      "city": "Haria"
+    },
+    {
+      "id": 3120874,
+      "city": "Haro"
+    },
+    {
+      "id": 2516797,
+      "city": "Hellin"
+    },
+    {
+      "id": 2516790,
+      "city": "Herencia"
+    },
+    {
+      "id": 2516785,
+      "city": "Hermigua"
+    },
+    {
+      "id": 3120811,
+      "city": "Hernani"
+    },
+    {
+      "id": 2516773,
+      "city": "Herrera"
+    },
+    {
+      "id": 3120793,
+      "city": "Herrera de Pisuerga"
+    },
+    {
+      "id": 2516768,
+      "city": "Herrera del Duque"
+    },
+    {
+      "id": 3120776,
+      "city": "Hervas"
+    },
+    {
+      "id": 2516728,
+      "city": "Higuera de Vargas"
+    },
+    {
+      "id": 2516723,
+      "city": "Higuera la Real"
+    },
+    {
+      "id": 3120763,
+      "city": "Hijar"
+    },
+    {
+      "id": 2516697,
+      "city": "Hinojos"
+    },
+    {
+      "id": 2516695,
+      "city": "Hinojosa del Duque"
+    },
+    {
+      "id": 2516656,
+      "city": "Hondon de las Nieves"
+    },
+    {
+      "id": 2516641,
+      "city": "Horcajo de Santiago"
+    },
+    {
+      "id": 2516632,
+      "city": "Hornachos"
+    },
+    {
+      "id": 2516630,
+      "city": "Hornachuelos"
+    },
+    {
+      "id": 3120616,
+      "city": "Hostalric"
+    },
+    {
+      "id": 3120605,
+      "city": "Hoyo de Manzanares"
+    },
+    {
+      "id": 2516549,
+      "city": "Huelma"
+    },
+    {
+      "id": 2516548,
+      "city": "Huelva"
+    },
+    {
+      "id": 2516543,
+      "city": "Huercal de Almeria"
+    },
+    {
+      "id": 2516542,
+      "city": "Huercal-Overa"
+    },
+    {
+      "id": 2516508,
+      "city": "Huesa"
+    },
+    {
+      "id": 3120514,
+      "city": "Huesca"
+    },
+    {
+      "id": 2516507,
+      "city": "Huescar"
+    },
+    {
+      "id": 3120511,
+      "city": "Huete"
+    },
+    {
+      "id": 2516498,
+      "city": "Huetor Vega"
+    },
+    {
+      "id": 2516499,
+      "city": "Huetor-Tajar"
+    },
+    {
+      "id": 3120501,
+      "city": "Humanes de Madrid"
+    },
+    {
+      "id": 2516490,
+      "city": "Humilladero"
+    },
+    {
+      "id": 2516480,
+      "city": "Ibi"
+    },
+    {
+      "id": 2516479,
+      "city": "Ibiza"
+    },
+    {
+      "id": 2516475,
+      "city": "Ibros"
+    },
+    {
+      "id": 2516474,
+      "city": "Icod de los Vinos"
+    },
+    {
+      "id": 3120453,
+      "city": "Idiazabal"
+    },
+    {
+      "id": 3120431,
+      "city": "Igualada"
+    },
+    {
+      "id": 3120410,
+      "city": "Illescas"
+    },
+    {
+      "id": 2516455,
+      "city": "Illora"
+    },
+    {
+      "id": 3120407,
+      "city": "Illueca"
+    },
+    {
+      "id": 2516452,
+      "city": "Inca"
+    },
+    {
+      "id": 3120392,
+      "city": "Incio"
+    },
+    {
+      "id": 2516449,
+      "city": "Infantes"
+    },
+    {
+      "id": 2516443,
+      "city": "Ingenio"
+    },
+    {
+      "id": 2516440,
+      "city": "Iniesta"
+    },
+    {
+      "id": 3120304,
+      "city": "Irun"
+    },
+    {
+      "id": 3120288,
+      "city": "Iscar"
+    },
+    {
+      "id": 2516431,
+      "city": "Isla Cristina"
+    },
+    {
+      "id": 8050879,
+      "city": "Iturrama"
+    },
+    {
+      "id": 2516415,
+      "city": "Iznajar"
+    },
+    {
+      "id": 2516414,
+      "city": "Iznalloz"
+    },
+    {
+      "id": 2516404,
+      "city": "Jabalquinto"
+    },
+    {
+      "id": 3120211,
+      "city": "Jaca"
+    },
+    {
+      "id": 2516395,
+      "city": "Jaen"
+    },
+    {
+      "id": 2516389,
+      "city": "Jalon"
+    },
+    {
+      "id": 2516386,
+      "city": "Jamilena"
+    },
+    {
+      "id": 3120186,
+      "city": "Jaraiz de la Vera"
+    },
+    {
+      "id": 3120179,
+      "city": "Jarandilla de la Vera"
+    },
+    {
+      "id": 2516336,
+      "city": "Javea"
+    },
+    {
+      "id": 2516326,
+      "city": "Jerez de la Frontera"
+    },
+    {
+      "id": 2516325,
+      "city": "Jerez de los Caballeros"
+    },
+    {
+      "id": 2516318,
+      "city": "Jijona"
+    },
+    {
+      "id": 2516315,
+      "city": "Jimena de la Frontera"
+    },
+    {
+      "id": 2516304,
+      "city": "Jodar"
+    },
+    {
+      "id": 2516255,
+      "city": "Jumilla"
+    },
+    {
+      "id": 3120073,
+      "city": "Juneda"
+    },
+    {
+      "id": 3120038,
+      "city": "La Adrada"
+    },
+    {
+      "id": 3120031,
+      "city": "La Alameda de la Sagra"
+    },
+    {
+      "id": 2516217,
+      "city": "La Algaba"
+    },
+    {
+      "id": 3120012,
+      "city": "La Almunia de Dona Godina"
+    },
+    {
+      "id": 3119979,
+      "city": "La Baneza"
+    },
+    {
+      "id": 3119952,
+      "city": "la Bisbal dEmporda"
+    },
+    {
+      "id": 3119918,
+      "city": "La Cabrera"
+    },
+    {
+      "id": 2516122,
+      "city": "La Calzada de Calatrava"
+    },
+    {
+      "id": 2516118,
+      "city": "La Campana"
+    },
+    {
+      "id": 2516089,
+      "city": "La Carlota"
+    },
+    {
+      "id": 2516088,
+      "city": "La Carolina"
+    },
+    {
+      "id": 2516065,
+      "city": "La Codosera"
+    },
+    {
+      "id": 2516049,
+      "city": "La Coronada"
+    },
+    {
+      "id": 3119822,
+      "city": "La Cuesta"
+    },
+    {
+      "id": 2517523,
+      "city": "La Font de la Figuera"
+    },
+    {
+      "id": 3119694,
+      "city": "la Garriga"
+    },
+    {
+      "id": 2515929,
+      "city": "La Garrovilla"
+    },
+    {
+      "id": 2515922,
+      "city": "La Gineta"
+    },
+    {
+      "id": 2515911,
+      "city": "La Guancha"
+    },
+    {
+      "id": 2515908,
+      "city": "La Guardia de Jaen"
+    },
+    {
+      "id": 2511401,
+      "city": "La Laguna"
+    },
+    {
+      "id": 2515814,
+      "city": "La Lantejuela"
+    },
+    {
+      "id": 3119541,
+      "city": "La Lastrilla"
+    },
+    {
+      "id": 2515812,
+      "city": "La Linea de la Concepcion"
+    },
+    {
+      "id": 3119531,
+      "city": "La Llagosta"
+    },
+    {
+      "id": 2515801,
+      "city": "La Luisiana"
+    },
+    {
+      "id": 6355177,
+      "city": "La Manga del Mar Menor"
+    },
+    {
+      "id": 2515772,
+      "city": "La Matanza de Acentejo"
+    },
+    {
+      "id": 2515755,
+      "city": "La Mojonera"
+    },
+    {
+      "id": 2515701,
+      "city": "la Nucia"
+    },
+    {
+      "id": 2515698,
+      "city": "La Oliva"
+    },
+    {
+      "id": 2515692,
+      "city": "La Orotava"
+    },
+    {
+      "id": 2515679,
+      "city": "La Palma del Condado"
+    },
+    {
+      "id": 3119231,
+      "city": "La Pineda"
+    },
+    {
+      "id": 3119220,
+      "city": "La Plaza"
+    },
+    {
+      "id": 3119216,
+      "city": "La Pobla de Claramunt"
+    },
+    {
+      "id": 2512251,
+      "city": "La Pobla de Vallbona"
+    },
+    {
+      "id": 2512250,
+      "city": "La Pobla Llarga"
+    },
+    {
+      "id": 3119212,
+      "city": "La Pola de Gordon"
+    },
+    {
+      "id": 2515623,
+      "city": "La Puebla de Almoradiel"
+    },
+    {
+      "id": 2515622,
+      "city": "La Puebla de Cazalla"
+    },
+    {
+      "id": 2515621,
+      "city": "La Puebla de los Infantes"
+    },
+    {
+      "id": 2515619,
+      "city": "La Puebla de Montalban"
+    },
+    {
+      "id": 2515620,
+      "city": "La Puebla del Rio"
+    },
+    {
+      "id": 2515618,
+      "city": "La Pueblanueva"
+    },
+    {
+      "id": 2515617,
+      "city": "La Puerta de Segura"
+    },
+    {
+      "id": 2515597,
+      "city": "La Rambla"
+    },
+    {
+      "id": 2515562,
+      "city": "La Rinconada"
+    },
+    {
+      "id": 3119100,
+      "city": "La Robla"
+    },
+    {
+      "id": 3119099,
+      "city": "La Roca del Valles"
+    },
+    {
+      "id": 2515555,
+      "city": "La Roda"
+    },
+    {
+      "id": 2515554,
+      "city": "La Roda de Andalucia"
+    },
+    {
+      "id": 2515550,
+      "city": "La Romana"
+    },
+    {
+      "id": 3118952,
+      "city": "La Selva"
+    },
+    {
+      "id": 3109143,
+      "city": "la Seu dUrgell"
+    },
+    {
+      "id": 2515284,
+      "city": "La Solana"
+    },
+    {
+      "id": 2515151,
+      "city": "La Union"
+    },
+    {
+      "id": 2515118,
+      "city": "La Victoria de Acentejo"
+    },
+    {
+      "id": 2516071,
+      "city": "Lachar"
+    },
+    {
+      "id": 3119631,
+      "city": "Laguna de Duero"
+    },
+    {
+      "id": 3130567,
+      "city": "lAlcora"
+    },
+    {
+      "id": 2522085,
+      "city": "LAlcudia"
+    },
+    {
+      "id": 2522084,
+      "city": "LAlcudia de Crespins"
+    },
+    {
+      "id": 6559503,
+      "city": "lAlfas del Pi"
+    },
+    {
+      "id": 3119536,
+      "city": "Lalin"
+    },
+    {
+      "id": 3119509,
+      "city": "Lama"
+    },
+    {
+      "id": 3120006,
+      "city": "LAmetlla del Valles"
+    },
+    {
+      "id": 3120003,
+      "city": "LAmpolla"
+    },
+    {
+      "id": 3119361,
+      "city": "Lancara"
+    },
+    {
+      "id": 3126854,
+      "city": "Landa"
+    },
+    {
+      "id": 2515708,
+      "city": "Lanjaron"
+    },
+    {
+      "id": 3119172,
+      "city": "Laracha"
+    },
+    {
+      "id": 3119153,
+      "city": "Lardero"
+    },
+    {
+      "id": 3119145,
+      "city": "Laredo"
+    },
+    {
+      "id": 3119081,
+      "city": "Larraga"
+    },
+    {
+      "id": 2515493,
+      "city": "Las Cabezas de San Juan"
+    },
+    {
+      "id": 6559641,
+      "city": "Las Gabias"
+    },
+    {
+      "id": 3118900,
+      "city": "Las Matas"
+    },
+    {
+      "id": 2515319,
+      "city": "Las Mesas"
+    },
+    {
+      "id": 3118888,
+      "city": "Las Navas del Marques"
+    },
+    {
+      "id": 2515270,
+      "city": "Las Palmas de Gran Canaria"
+    },
+    {
+      "id": 2515261,
+      "city": "Las Pedroneras"
+    },
+    {
+      "id": 6355214,
+      "city": "Las Rosas"
+    },
+    {
+      "id": 3118848,
+      "city": "Las Rozas de Madrid"
+    },
+    {
+      "id": 6324402,
+      "city": "Las Tablas"
+    },
+    {
+      "id": 2515219,
+      "city": "Las Torres de Cotillas"
+    },
+    {
+      "id": 3119027,
+      "city": "Lasarte"
+    },
+    {
+      "id": 2515096,
+      "city": "Lebrija"
+    },
+    {
+      "id": 2515093,
+      "city": "Ledana"
+    },
+    {
+      "id": 3118594,
+      "city": "Leganes"
+    },
+    {
+      "id": 3118554,
+      "city": "Leioa"
+    },
+    {
+      "id": 3118523,
+      "city": "Lekeitio"
+    },
+    {
+      "id": 2516004,
+      "city": "LEliana"
+    },
+    {
+      "id": 3118532,
+      "city": "Leon"
+    },
+    {
+      "id": 2515072,
+      "city": "Lepe"
+    },
+    {
+      "id": 3118511,
+      "city": "Lerma"
+    },
+    {
+      "id": 3119779,
+      "city": "lEscala"
+    },
+    {
+      "id": 3118472,
+      "city": "Lezama"
+    },
+    {
+      "id": 3118469,
+      "city": "Lezo"
+    },
+    {
+      "id": 3120619,
+      "city": "LHospitalet de Llobregat"
+    },
+    {
+      "id": 2515060,
+      "city": "Librilla"
+    },
+    {
+      "id": 2515055,
+      "city": "Lillo"
+    },
+    {
+      "id": 2515045,
+      "city": "Linares"
+    },
+    {
+      "id": 3118370,
+      "city": "Linyola"
+    },
+    {
+      "id": 3118340,
+      "city": "Llagostera"
+    },
+    {
+      "id": 3118287,
+      "city": "Llanca"
+    },
+    {
+      "id": 3118307,
+      "city": "Llanera"
+    },
+    {
+      "id": 3118304,
+      "city": "Llanes"
+    },
+    {
+      "id": 6943537,
+      "city": "Llefia"
+    },
+    {
+      "id": 3118514,
+      "city": "Lleida"
+    },
+    {
+      "id": 2515002,
+      "city": "Llerena"
+    },
+    {
+      "id": 3118238,
+      "city": "Llica dAmunt"
+    },
+    {
+      "id": 2515036,
+      "city": "Lliria"
+    },
+    {
+      "id": 3118228,
+      "city": "Llodio"
+    },
+    {
+      "id": 2514994,
+      "city": "Llombai"
+    },
+    {
+      "id": 3118212,
+      "city": "Lloret de Mar"
+    },
+    {
+      "id": 2514989,
+      "city": "Llosa de Ranes"
+    },
+    {
+      "id": 2514988,
+      "city": "Lloseta"
+    },
+    {
+      "id": 2514987,
+      "city": "Llubi"
+    },
+    {
+      "id": 2514984,
+      "city": "Llucmajor"
+    },
+    {
+      "id": 2514386,
+      "city": "Llutxent"
+    },
+    {
+      "id": 3118175,
+      "city": "Lobios"
+    },
+    {
+      "id": 2514964,
+      "city": "Lobon"
+    },
+    {
+      "id": 3118161,
+      "city": "Lodosa"
+    },
+    {
+      "id": 3118155,
+      "city": "Loeches"
+    },
+    {
+      "id": 3118150,
+      "city": "Logrono"
+    },
+    {
+      "id": 2514947,
+      "city": "Logrosan"
+    },
+    {
+      "id": 2514946,
+      "city": "Loja"
+    },
+    {
+      "id": 2513130,
+      "city": "LOlleria"
+    },
+    {
+      "id": 2514912,
+      "city": "Lomo de Arico"
+    },
+    {
+      "id": 2514896,
+      "city": "Lopera"
+    },
+    {
+      "id": 2514893,
+      "city": "Lora del Rio"
+    },
+    {
+      "id": 2514891,
+      "city": "Lorca"
+    },
+    {
+      "id": 2514883,
+      "city": "Lorqui"
+    },
+    {
+      "id": 2514868,
+      "city": "Los Alcazares"
+    },
+    {
+      "id": 2514824,
+      "city": "Los Barrios"
+    },
+    {
+      "id": 2514747,
+      "city": "Los Corrales"
+    },
+    {
+      "id": 3118024,
+      "city": "Los Corrales de Buelna"
+    },
+    {
+      "id": 2514651,
+      "city": "Los Llanos de Aridane"
+    },
+    {
+      "id": 2514601,
+      "city": "Los Molares"
+    },
+    {
+      "id": 3117982,
+      "city": "Los Molinos"
+    },
+    {
+      "id": 2514593,
+      "city": "Los Montesinos"
+    },
+    {
+      "id": 2514574,
+      "city": "Los Navalmorales"
+    },
+    {
+      "id": 2514573,
+      "city": "Los Navalucillos"
+    },
+    {
+      "id": 2514553,
+      "city": "Los Palacios y Villafranca"
+    },
+    {
+      "id": 6692471,
+      "city": "Los Realejos"
+    },
+    {
+      "id": 2514460,
+      "city": "Los Santos de Maimona"
+    },
+    {
+      "id": 2514452,
+      "city": "Los Silos"
+    },
+    {
+      "id": 2514406,
+      "city": "Los Yebenes"
+    },
+    {
+      "id": 3118057,
+      "city": "Losar de la Vera"
+    },
+    {
+      "id": 3117888,
+      "city": "Lousame"
+    },
+    {
+      "id": 3117862,
+      "city": "Luanco"
+    },
+    {
+      "id": 2514392,
+      "city": "Lucena"
+    },
+    {
+      "id": 2514389,
+      "city": "Lucena del Puerto"
+    },
+    {
+      "id": 3117814,
+      "city": "Lugo"
+    },
+    {
+      "id": 3117811,
+      "city": "Lugones"
+    },
+    {
+      "id": 3117803,
+      "city": "Lumbrales"
+    },
+    {
+      "id": 2514367,
+      "city": "Luque"
+    },
+    {
+      "id": 3117777,
+      "city": "Luzmela"
+    },
+    {
+      "id": 2514360,
+      "city": "Macael"
+    },
+    {
+      "id": 3117771,
+      "city": "Maceda"
+    },
+    {
+      "id": 3117735,
+      "city": "Madrid"
+    },
+    {
+      "id": 2514334,
+      "city": "Madridejos"
+    },
+    {
+      "id": 2514333,
+      "city": "Madrigalejo"
+    },
+    {
+      "id": 2514332,
+      "city": "Madrigueras"
+    },
+    {
+      "id": 2514324,
+      "city": "Madronera"
+    },
+    {
+      "id": 3117715,
+      "city": "Maella"
+    },
+    {
+      "id": 6355015,
+      "city": "Magaluf"
+    },
+    {
+      "id": 2514288,
+      "city": "Mairena del Alcor"
+    },
+    {
+      "id": 2514287,
+      "city": "Mairena del Aljarafe"
+    },
+    {
+      "id": 3117667,
+      "city": "Majadahonda"
+    },
+    {
+      "id": 2514256,
+      "city": "Malaga"
+    },
+    {
+      "id": 2514252,
+      "city": "Malagon"
+    },
+    {
+      "id": 3117636,
+      "city": "Malgrat de Mar"
+    },
+    {
+      "id": 3117623,
+      "city": "Mallen"
+    },
+    {
+      "id": 2514227,
+      "city": "Malpartida de Caceres"
+    },
+    {
+      "id": 2514225,
+      "city": "Malpartida de Plasencia"
+    },
+    {
+      "id": 2514219,
+      "city": "Malpica"
+    },
+    {
+      "id": 3117606,
+      "city": "Malpica"
+    },
+    {
+      "id": 2514216,
+      "city": "Manacor"
+    },
+    {
+      "id": 2514211,
+      "city": "Mancha Real"
+    },
+    {
+      "id": 2514199,
+      "city": "Manilva"
+    },
+    {
+      "id": 2514197,
+      "city": "Manises"
+    },
+    {
+      "id": 3117539,
+      "city": "Manlleu"
+    },
+    {
+      "id": 3117533,
+      "city": "Manresa"
+    },
+    {
+      "id": 2514192,
+      "city": "Manuel"
+    },
+    {
+      "id": 2514190,
+      "city": "Manzanares"
+    },
+    {
+      "id": 3117503,
+      "city": "Manzanares el Real"
+    },
+    {
+      "id": 2514185,
+      "city": "Manzanilla"
+    },
+    {
+      "id": 2514301,
+      "city": "Mao"
+    },
+    {
+      "id": 2514176,
+      "city": "Maracena"
+    },
+    {
+      "id": 2514169,
+      "city": "Marbella"
+    },
+    {
+      "id": 3117443,
+      "city": "Marchamalo"
+    },
+    {
+      "id": 2514158,
+      "city": "Marchena"
+    },
+    {
+      "id": 3117442,
+      "city": "Marcilla"
+    },
+    {
+      "id": 3117420,
+      "city": "Maria de Huerva"
+    },
+    {
+      "id": 2514134,
+      "city": "Maria de la Salut"
+    },
+    {
+      "id": 3117409,
+      "city": "Marin"
+    },
+    {
+      "id": 2514120,
+      "city": "Marinaleda"
+    },
+    {
+      "id": 2514107,
+      "city": "Marmolejo"
+    },
+    {
+      "id": 2514097,
+      "city": "Marratxi"
+    },
+    {
+      "id": 2514084,
+      "city": "Martin de la Jara"
+    },
+    {
+      "id": 3117331,
+      "city": "Martorell"
+    },
+    {
+      "id": 2514073,
+      "city": "Martos"
+    },
+    {
+      "id": 3117238,
+      "city": "Maside"
+    },
+    {
+      "id": 3117225,
+      "city": "Masquefa"
+    },
+    {
+      "id": 2514066,
+      "city": "Massamagrell"
+    },
+    {
+      "id": 3117200,
+      "city": "Matadepera"
+    },
+    {
+      "id": 3117164,
+      "city": "Mataro"
+    },
+    {
+      "id": 3117091,
+      "city": "Mayorga"
+    },
+    {
+      "id": 3117076,
+      "city": "Mazaricos"
+    },
+    {
+      "id": 2513983,
+      "city": "Mazarron"
+    },
+    {
+      "id": 2513978,
+      "city": "Mazo"
+    },
+    {
+      "id": 3117048,
+      "city": "Meano"
+    },
+    {
+      "id": 3117041,
+      "city": "Meco"
+    },
+    {
+      "id": 2513968,
+      "city": "Medellin"
+    },
+    {
+      "id": 3117009,
+      "city": "Medina de Pomar"
+    },
+    {
+      "id": 3117008,
+      "city": "Medina de Rioseco"
+    },
+    {
+      "id": 3117010,
+      "city": "Medina del Campo"
+    },
+    {
+      "id": 2513961,
+      "city": "Medina Sidonia"
+    },
+    {
+      "id": 3116968,
+      "city": "Meis"
+    },
+    {
+      "id": 3116963,
+      "city": "Mejorada del Campo"
+    },
+    {
+      "id": 3116955,
+      "city": "Melgar de Fernamental"
+    },
+    {
+      "id": 2513949,
+      "city": "Meliana"
+    },
+    {
+      "id": 2513947,
+      "city": "Melilla"
+    },
+    {
+      "id": 2513944,
+      "city": "Membrilla"
+    },
+    {
+      "id": 2513935,
+      "city": "Menasalbas"
+    },
+    {
+      "id": 3116921,
+      "city": "Mendavia"
+    },
+    {
+      "id": 2513931,
+      "city": "Mengibar"
+    },
+    {
+      "id": 3116884,
+      "city": "Mentrida"
+    },
+    {
+      "id": 3116881,
+      "city": "Mequinensa / Mequinenza"
+    },
+    {
+      "id": 2513917,
+      "city": "Merida"
+    },
+    {
+      "id": 3116829,
+      "city": "Mesia"
+    },
+    {
+      "id": 2513893,
+      "city": "Miajadas"
+    },
+    {
+      "id": 3116794,
+      "city": "Miengo"
+    },
+    {
+      "id": 3116789,
+      "city": "Mieres"
+    },
+    {
+      "id": 2513886,
+      "city": "Miguel Esteban"
+    },
+    {
+      "id": 2513885,
+      "city": "Miguelturra"
+    },
+    {
+      "id": 2513882,
+      "city": "Mijas"
+    },
+    {
+      "id": 3116770,
+      "city": "Milagro"
+    },
+    {
+      "id": 2513852,
+      "city": "Minglanilla"
+    },
+    {
+      "id": 3116729,
+      "city": "Mino"
+    },
+    {
+      "id": 3116708,
+      "city": "Miraflores de la Sierra"
+    },
+    {
+      "id": 3116689,
+      "city": "Miranda de Ebro"
+    },
+    {
+      "id": 2513811,
+      "city": "Mislata"
+    },
+    {
+      "id": 3116653,
+      "city": "Moana"
+    },
+    {
+      "id": 2513803,
+      "city": "Mocejon"
+    },
+    {
+      "id": 2513801,
+      "city": "Moclin"
+    },
+    {
+      "id": 2513798,
+      "city": "Mogan"
+    },
+    {
+      "id": 2513794,
+      "city": "Mogente"
+    },
+    {
+      "id": 2513791,
+      "city": "Moguer"
+    },
+    {
+      "id": 3115985,
+      "city": "Moia"
+    },
+    {
+      "id": 2513786,
+      "city": "Mojacar"
+    },
+    {
+      "id": 3116619,
+      "city": "Mojados"
+    },
+    {
+      "id": 3116595,
+      "city": "Molina de Aragon"
+    },
+    {
+      "id": 2513759,
+      "city": "Molina de Segura"
+    },
+    {
+      "id": 3116562,
+      "city": "Molins de Rei"
+    },
+    {
+      "id": 3116554,
+      "city": "Mollerussa"
+    },
+    {
+      "id": 3116553,
+      "city": "Mollet del Valles"
+    },
+    {
+      "id": 2513717,
+      "city": "Mollina"
+    },
+    {
+      "id": 2513713,
+      "city": "Molvizar"
+    },
+    {
+      "id": 2513709,
+      "city": "Monachil"
+    },
+    {
+      "id": 2513703,
+      "city": "Moncada"
+    },
+    {
+      "id": 2513700,
+      "city": "Moncofar"
+    },
+    {
+      "id": 2513699,
+      "city": "Monda"
+    },
+    {
+      "id": 3116514,
+      "city": "Mondariz"
+    },
+    {
+      "id": 3116510,
+      "city": "Mondejar"
+    },
+    {
+      "id": 3116507,
+      "city": "Mondonedo"
+    },
+    {
+      "id": 2513692,
+      "city": "Monesterio"
+    },
+    {
+      "id": 3116482,
+      "city": "Monfero"
+    },
+    {
+      "id": 3116478,
+      "city": "Monforte de Lemos"
+    },
+    {
+      "id": 2513691,
+      "city": "Monforte del Cid"
+    },
+    {
+      "id": 3116466,
+      "city": "Monistrol de Montserrat"
+    },
+    {
+      "id": 2513680,
+      "city": "Monovar"
+    },
+    {
+      "id": 3116454,
+      "city": "Monreal del Campo"
+    },
+    {
+      "id": 2513674,
+      "city": "Monserrat"
+    },
+    {
+      "id": 3116245,
+      "city": "Mont-roig del Camp"
+    },
+    {
+      "id": 2513671,
+      "city": "Montalban de Cordoba"
+    },
+    {
+      "id": 2513659,
+      "city": "Montanchez"
+    },
+    {
+      "id": 3116411,
+      "city": "Montblanc"
+    },
+    {
+      "id": 3116527,
+      "city": "Montcada i Reixac"
+    },
+    {
+      "id": 2513649,
+      "city": "Montealegre del Castillo"
+    },
+    {
+      "id": 6615443,
+      "city": "Montecanal"
+    },
+    {
+      "id": 2513640,
+      "city": "Montefrio"
+    },
+    {
+      "id": 3116351,
+      "city": "Montehermoso"
+    },
+    {
+      "id": 2513638,
+      "city": "Montejicar"
+    },
+    {
+      "id": 2513637,
+      "city": "Montellano"
+    },
+    {
+      "id": 2513632,
+      "city": "Montemayor"
+    },
+    {
+      "id": 3116318,
+      "city": "Monterroso"
+    },
+    {
+      "id": 2513618,
+      "city": "Monterrubio de la Serena"
+    },
+    {
+      "id": 3116474,
+      "city": "Montgat"
+    },
+    {
+      "id": 2513604,
+      "city": "Montijo"
+    },
+    {
+      "id": 2513601,
+      "city": "Montilla"
+    },
+    {
+      "id": 2513597,
+      "city": "Montizon"
+    },
+    {
+      "id": 3116276,
+      "city": "Montmelo"
+    },
+    {
+      "id": 3116262,
+      "city": "Montornes del Valles"
+    },
+    {
+      "id": 2513595,
+      "city": "Montoro"
+    },
+    {
+      "id": 2513590,
+      "city": "Montuiri"
+    },
+    {
+      "id": 2513589,
+      "city": "Monturque"
+    },
+    {
+      "id": 3116224,
+      "city": "Monzon"
+    },
+    {
+      "id": 2513588,
+      "city": "Mora"
+    },
+    {
+      "id": 2513580,
+      "city": "Moral de Calatrava"
+    },
+    {
+      "id": 2513579,
+      "city": "Moraleda de Zafayona"
+    },
+    {
+      "id": 3116198,
+      "city": "Moraleja"
+    },
+    {
+      "id": 3116191,
+      "city": "Moraleja de Enmedio"
+    },
+    {
+      "id": 3116179,
+      "city": "Morales del Vino"
+    },
+    {
+      "id": 3116175,
+      "city": "Moralzarzal"
+    },
+    {
+      "id": 3116172,
+      "city": "Morana"
+    },
+    {
+      "id": 3116157,
+      "city": "Morata de Tajuna"
+    },
+    {
+      "id": 2513562,
+      "city": "Moratalla"
+    },
+    {
+      "id": 3116121,
+      "city": "Morella"
+    },
+    {
+      "id": 2513509,
+      "city": "Moron de la Frontera"
+    },
+    {
+      "id": 3116057,
+      "city": "Mos"
+    },
+    {
+      "id": 3116025,
+      "city": "Mostoles"
+    },
+    {
+      "id": 2513481,
+      "city": "Mota del Cuervo"
+    },
+    {
+      "id": 2513480,
+      "city": "Motilla del Palancar"
+    },
+    {
+      "id": 2513477,
+      "city": "Motril"
+    },
+    {
+      "id": 2513476,
+      "city": "Moya"
+    },
+    {
+      "id": 2513465,
+      "city": "Muchamiel"
+    },
+    {
+      "id": 3115943,
+      "city": "Mugardos"
+    },
+    {
+      "id": 3115941,
+      "city": "Mugia"
+    },
+    {
+      "id": 3115933,
+      "city": "Muinos"
+    },
+    {
+      "id": 2513436,
+      "city": "Mula"
+    },
+    {
+      "id": 2513421,
+      "city": "Munera"
+    },
+    {
+      "id": 3115907,
+      "city": "Mungia"
+    },
+    {
+      "id": 3115878,
+      "city": "Murchante"
+    },
+    {
+      "id": 2513416,
+      "city": "Murcia"
+    },
+    {
+      "id": 3115874,
+      "city": "Murguia"
+    },
+    {
+      "id": 2513406,
+      "city": "Muro"
+    },
+    {
+      "id": 2513403,
+      "city": "Muro del Alcoy"
+    },
+    {
+      "id": 3115824,
+      "city": "Muros"
+    },
+    {
+      "id": 3115823,
+      "city": "Muros de Nalon"
+    },
+    {
+      "id": 2513395,
+      "city": "Museros"
+    },
+    {
+      "id": 3116018,
+      "city": "Mutriku"
+    },
+    {
+      "id": 3115780,
+      "city": "Najera"
+    },
+    {
+      "id": 2513384,
+      "city": "Nambroca"
+    },
+    {
+      "id": 2513375,
+      "city": "Naquera"
+    },
+    {
+      "id": 3115739,
+      "city": "Naron"
+    },
+    {
+      "id": 3115696,
+      "city": "Nava de la Asuncion"
+    },
+    {
+      "id": 3115691,
+      "city": "Nava del Rey"
+    },
+    {
+      "id": 3115704,
+      "city": "Navacerrada"
+    },
+    {
+      "id": 3115700,
+      "city": "Navaconcejo"
+    },
+    {
+      "id": 2513346,
+      "city": "Navahermosa"
+    },
+    {
+      "id": 3115660,
+      "city": "Navalcan"
+    },
+    {
+      "id": 3115659,
+      "city": "Navalcarnero"
+    },
+    {
+      "id": 2513324,
+      "city": "Navalmoral de la Mata"
+    },
+    {
+      "id": 3115629,
+      "city": "Navaluenga"
+    },
+    {
+      "id": 2513313,
+      "city": "Navalvillar de Pela"
+    },
+    {
+      "id": 3115616,
+      "city": "Navarcles"
+    },
+    {
+      "id": 2513306,
+      "city": "Navarres"
+    },
+    {
+      "id": 3115593,
+      "city": "Navas"
+    },
+    {
+      "id": 3115585,
+      "city": "Navas del Rey"
+    },
+    {
+      "id": 3115553,
+      "city": "Navia"
+    },
+    {
+      "id": 3115523,
+      "city": "Negreira"
+    },
+    {
+      "id": 2513240,
+      "city": "Nerja"
+    },
+    {
+      "id": 2513237,
+      "city": "Nerva"
+    },
+    {
+      "id": 2513230,
+      "city": "Niebla"
+    },
+    {
+      "id": 3115463,
+      "city": "Nigran"
+    },
+    {
+      "id": 2513222,
+      "city": "Nijar"
+    },
+    {
+      "id": 2513217,
+      "city": "Noalejo"
+    },
+    {
+      "id": 2513216,
+      "city": "Noblejas"
+    },
+    {
+      "id": 3115394,
+      "city": "Nogueira de Ramuin"
+    },
+    {
+      "id": 3115376,
+      "city": "Noja"
+    },
+    {
+      "id": 3115363,
+      "city": "Norena"
+    },
+    {
+      "id": 6252065,
+      "city": "Nou Barris"
+    },
+    {
+      "id": 2513195,
+      "city": "Novelda"
+    },
+    {
+      "id": 2513184,
+      "city": "Nueva-Carteya"
+    },
+    {
+      "id": 3115314,
+      "city": "Nuevo Baztan"
+    },
+    {
+      "id": 2513180,
+      "city": "Nules"
+    },
+    {
+      "id": 3115307,
+      "city": "Numancia de la Sagra"
+    },
+    {
+      "id": 3123658,
+      "city": "O Barco de Valdeorras"
+    },
+    {
+      "id": 3126373,
+      "city": "O Carballino"
+    },
+    {
+      "id": 3121078,
+      "city": "O Grove"
+    },
+    {
+      "id": 3111353,
+      "city": "O Rosal"
+    },
+    {
+      "id": 2513175,
+      "city": "Ocana"
+    },
+    {
+      "id": 3115252,
+      "city": "Odena"
+    },
+    {
+      "id": 2513167,
+      "city": "Ogijares"
+    },
+    {
+      "id": 3115233,
+      "city": "Oimbra"
+    },
+    {
+      "id": 2513163,
+      "city": "Ojen"
+    },
+    {
+      "id": 3115177,
+      "city": "Oleiros"
+    },
+    {
+      "id": 3115171,
+      "city": "Olesa de Montserrat"
+    },
+    {
+      "id": 2513146,
+      "city": "Olias del Rey"
+    },
+    {
+      "id": 3115162,
+      "city": "Olite"
+    },
+    {
+      "id": 2513145,
+      "city": "Oliva"
+    },
+    {
+      "id": 2513143,
+      "city": "Oliva de la Frontera"
+    },
+    {
+      "id": 2513140,
+      "city": "Olivares"
+    },
+    {
+      "id": 3115150,
+      "city": "Olivella"
+    },
+    {
+      "id": 3115118,
+      "city": "Olmedo"
+    },
+    {
+      "id": 3115093,
+      "city": "Olot"
+    },
+    {
+      "id": 2513121,
+      "city": "Olula del Rio"
+    },
+    {
+      "id": 3115088,
+      "city": "Olvega"
+    },
+    {
+      "id": 2513120,
+      "city": "Olvera"
+    },
+    {
+      "id": 3115063,
+      "city": "Onate"
+    },
+    {
+      "id": 2513115,
+      "city": "Onda"
+    },
+    {
+      "id": 2513114,
+      "city": "Ondara"
+    },
+    {
+      "id": 3115056,
+      "city": "Ondarroa"
+    },
+    {
+      "id": 2513113,
+      "city": "Onil"
+    },
+    {
+      "id": 2513104,
+      "city": "Ontigola"
+    },
+    {
+      "id": 2513106,
+      "city": "Ontinyent"
+    },
+    {
+      "id": 2513103,
+      "city": "Ontur"
+    },
+    {
+      "id": 2513098,
+      "city": "Orba"
+    },
+    {
+      "id": 2513094,
+      "city": "Orcera"
+    },
+    {
+      "id": 3114992,
+      "city": "Ordes"
+    },
+    {
+      "id": 2513084,
+      "city": "Orellana la Vieja"
+    },
+    {
+      "id": 2513081,
+      "city": "Orgaz"
+    },
+    {
+      "id": 2513079,
+      "city": "Oria"
+    },
+    {
+      "id": 3114957,
+      "city": "Oria"
+    },
+    {
+      "id": 2513076,
+      "city": "Orihuela"
+    },
+    {
+      "id": 3114942,
+      "city": "Orio"
+    },
+    {
+      "id": 2513073,
+      "city": "Orjiva"
+    },
+    {
+      "id": 3114997,
+      "city": "Orkoien"
+    },
+    {
+      "id": 2513069,
+      "city": "Oropesa"
+    },
+    {
+      "id": 3114904,
+      "city": "Oroso"
+    },
+    {
+      "id": 3114912,
+      "city": "Orpesa/Oropesa del Mar"
+    },
+    {
+      "id": 2513053,
+      "city": "Ossa de Montiel"
+    },
+    {
+      "id": 2513052,
+      "city": "Osuna"
+    },
+    {
+      "id": 2513045,
+      "city": "Otura"
+    },
+    {
+      "id": 3114965,
+      "city": "Ourense"
+    },
+    {
+      "id": 3114732,
+      "city": "Outeiro"
+    },
+    {
+      "id": 3114726,
+      "city": "Outes"
+    },
+    {
+      "id": 3114711,
+      "city": "Oviedo"
+    },
+    {
+      "id": 3114697,
+      "city": "Oyon"
+    },
+    {
+      "id": 3114649,
+      "city": "Padrenda"
+    },
+    {
+      "id": 3114643,
+      "city": "Padron"
+    },
+    {
+      "id": 2513035,
+      "city": "Padul"
+    },
+    {
+      "id": 2513029,
+      "city": "Paiporta"
+    },
+    {
+      "id": 2513026,
+      "city": "Pajara"
+    },
+    {
+      "id": 3114567,
+      "city": "Palafrugell"
+    },
+    {
+      "id": 3114566,
+      "city": "Palamos"
+    },
+    {
+      "id": 3114535,
+      "city": "Palazuelos de Eresma"
+    },
+    {
+      "id": 3114531,
+      "city": "Palencia"
+    },
+    {
+      "id": 3114516,
+      "city": "Palleja"
+    },
+    {
+      "id": 2512989,
+      "city": "Palma"
+    },
+    {
+      "id": 2512990,
+      "city": "Palma del Rio"
+    },
+    {
+      "id": 2512964,
+      "city": "Palomares del Rio"
+    },
+    {
+      "id": 2512950,
+      "city": "Palos de la Frontera"
+    },
+    {
+      "id": 3114479,
+      "city": "Pals"
+    },
+    {
+      "id": 3114472,
+      "city": "Pamplona"
+    },
+    {
+      "id": 3114411,
+      "city": "Pantoja"
+    },
+    {
+      "id": 3114410,
+      "city": "Panton"
+    },
+    {
+      "id": 3114397,
+      "city": "Paracuellos de Jarama"
+    },
+    {
+      "id": 2512933,
+      "city": "Paradas"
+    },
+    {
+      "id": 3114348,
+      "city": "Paradela"
+    },
+    {
+      "id": 3114273,
+      "city": "Paredes de Nava"
+    },
+    {
+      "id": 3114267,
+      "city": "Parets del Valles"
+    },
+    {
+      "id": 3114256,
+      "city": "Parla"
+    },
+    {
+      "id": 3114245,
+      "city": "Parres"
+    },
+    {
+      "id": 6693088,
+      "city": "Pasaia"
+    },
+    {
+      "id": 2512862,
+      "city": "Paterna"
+    },
+    {
+      "id": 2512857,
+      "city": "Paterna de Rivera"
+    },
+    {
+      "id": 2512860,
+      "city": "Paterna del Campo"
+    },
+    {
+      "id": 2512844,
+      "city": "Peal de Becerro"
+    },
+    {
+      "id": 3114138,
+      "city": "Pedrajas de San Esteban"
+    },
+    {
+      "id": 2512837,
+      "city": "Pedralba"
+    },
+    {
+      "id": 2512825,
+      "city": "Pedreguer"
+    },
+    {
+      "id": 2512824,
+      "city": "Pedrera"
+    },
+    {
+      "id": 3114112,
+      "city": "Pedrezuela"
+    },
+    {
+      "id": 2512812,
+      "city": "Pedro Abad"
+    },
+    {
+      "id": 2512794,
+      "city": "Pedro Munoz"
+    },
+    {
+      "id": 3114097,
+      "city": "Pedrola"
+    },
+    {
+      "id": 2512784,
+      "city": "Pegalajar"
+    },
+    {
+      "id": 6559502,
+      "city": "Pego"
+    },
+    {
+      "id": 3114019,
+      "city": "Pelayos de la Presa"
+    },
+    {
+      "id": 2512767,
+      "city": "Peligros"
+    },
+    {
+      "id": 3113957,
+      "city": "Penafiel"
+    },
+    {
+      "id": 2512746,
+      "city": "Penaflor"
+    },
+    {
+      "id": 3113910,
+      "city": "Penaranda de Bracamonte"
+    },
+    {
+      "id": 2512730,
+      "city": "Penarroya-Pueblonuevo"
+    },
+    {
+      "id": 3113860,
+      "city": "Peniscola"
+    },
+    {
+      "id": 3113801,
+      "city": "Perales de Tajuna"
+    },
+    {
+      "id": 3113800,
+      "city": "Peralta"
+    },
+    {
+      "id": 3113738,
+      "city": "Pereiro de Aguiar"
+    },
+    {
+      "id": 2512660,
+      "city": "Periana"
+    },
+    {
+      "id": 2512638,
+      "city": "Petra"
+    },
+    {
+      "id": 2512624,
+      "city": "Picanya"
+    },
+    {
+      "id": 2512620,
+      "city": "Picassent"
+    },
+    {
+      "id": 2512609,
+      "city": "Piedrabuena"
+    },
+    {
+      "id": 3113590,
+      "city": "Piedralaves"
+    },
+    {
+      "id": 3113576,
+      "city": "Piera"
+    },
+    {
+      "id": 2512581,
+      "city": "Pilar de la Horadada"
+    },
+    {
+      "id": 2512578,
+      "city": "Pilas"
+    },
+    {
+      "id": 2512571,
+      "city": "Piles"
+    },
+    {
+      "id": 3113555,
+      "city": "Pilona"
+    },
+    {
+      "id": 3113549,
+      "city": "Pina de Ebro"
+    },
+    {
+      "id": 6324376,
+      "city": "Pinar de Chamartin"
+    },
+    {
+      "id": 3113526,
+      "city": "Pineda de Mar"
+    },
+    {
+      "id": 2512509,
+      "city": "Pinos Puente"
+    },
+    {
+      "id": 2512510,
+      "city": "Pinoso"
+    },
+    {
+      "id": 3113420,
+      "city": "Pinseque"
+    },
+    {
+      "id": 3113415,
+      "city": "Pinto"
+    },
+    {
+      "id": 2512490,
+      "city": "Pizarra"
+    },
+    {
+      "id": 3113331,
+      "city": "Plasencia"
+    },
+    {
+      "id": 6355183,
+      "city": "Playa de las Americas"
+    },
+    {
+      "id": 6354969,
+      "city": "Playa del Ingles"
+    },
+    {
+      "id": 2512458,
+      "city": "Pliego"
+    },
+    {
+      "id": 3112788,
+      "city": "Poboa do Brollon"
+    },
+    {
+      "id": 3113035,
+      "city": "Poio"
+    },
+    {
+      "id": 3113272,
+      "city": "Pola de Allande"
+    },
+    {
+      "id": 3113271,
+      "city": "Pola de Laviana"
+    },
+    {
+      "id": 3113270,
+      "city": "Pola de Lena"
+    },
+    {
+      "id": 3113268,
+      "city": "Pola de Siero"
+    },
+    {
+      "id": 2512437,
+      "city": "Polan"
+    },
+    {
+      "id": 3113254,
+      "city": "Polinya"
+    },
+    {
+      "id": 2512433,
+      "city": "Polinya de Xuquer"
+    },
+    {
+      "id": 2512432,
+      "city": "Pollenca"
+    },
+    {
+      "id": 2512427,
+      "city": "Polop"
+    },
+    {
+      "id": 3113236,
+      "city": "Ponferrada"
+    },
+    {
+      "id": 3112761,
+      "city": "Ponteareas"
+    },
+    {
+      "id": 3113209,
+      "city": "Pontevedra"
+    },
+    {
+      "id": 3113231,
+      "city": "Ponts"
+    },
+    {
+      "id": 2512408,
+      "city": "Porcuna"
+    },
+    {
+      "id": 2512398,
+      "city": "Porreres"
+    },
+    {
+      "id": 3113157,
+      "city": "Porrino"
+    },
+    {
+      "id": 6544075,
+      "city": "Port dAlcudia"
+    },
+    {
+      "id": 3113147,
+      "city": "Portas"
+    },
+    {
+      "id": 3113112,
+      "city": "Portillo"
+    },
+    {
+      "id": 3113108,
+      "city": "Portillo de Toledo"
+    },
+    {
+      "id": 3113082,
+      "city": "Portugalete"
+    },
+    {
+      "id": 2512369,
+      "city": "Porzuna"
+    },
+    {
+      "id": 2512367,
+      "city": "Posadas"
+    },
+    {
+      "id": 2512343,
+      "city": "Pozo Alcon"
+    },
+    {
+      "id": 2512337,
+      "city": "Pozo-Canada"
+    },
+    {
+      "id": 2512340,
+      "city": "Pozoblanco"
+    },
+    {
+      "id": 3112989,
+      "city": "Pozuelo de Alarcon"
+    },
+    {
+      "id": 2512305,
+      "city": "Pozuelo de Calatrava"
+    },
+    {
+      "id": 3112966,
+      "city": "Pradejon"
+    },
+    {
+      "id": 2512294,
+      "city": "Prado del Rey"
+    },
+    {
+      "id": 3112866,
+      "city": "Premia de Mar"
+    },
+    {
+      "id": 2512282,
+      "city": "Priego de Cordoba"
+    },
+    {
+      "id": 8050888,
+      "city": "Primer Ensanche"
+    },
+    {
+      "id": 2512272,
+      "city": "Pruna"
+    },
+    {
+      "id": 2512127,
+      "city": "Pucol"
+    },
+    {
+      "id": 3112795,
+      "city": "Puebla de Alfinden"
+    },
+    {
+      "id": 2512264,
+      "city": "Puebla de Guzman"
+    },
+    {
+      "id": 2512263,
+      "city": "Puebla de la Calzada"
+    },
+    {
+      "id": 2512255,
+      "city": "Puebla de Obando"
+    },
+    {
+      "id": 2512253,
+      "city": "Puebla de Sancho Perez"
+    },
+    {
+      "id": 2512238,
+      "city": "Puente de Genave"
+    },
+    {
+      "id": 3112732,
+      "city": "Puente la Reina"
+    },
+    {
+      "id": 3112717,
+      "city": "Puente Viesgo"
+    },
+    {
+      "id": 2512232,
+      "city": "Puente-Genil"
+    },
+    {
+      "id": 3112721,
+      "city": "Puentes de Garcia Rodriguez"
+    },
+    {
+      "id": 2512196,
+      "city": "Puerto de la Cruz"
+    },
+    {
+      "id": 6355013,
+      "city": "Puerto del Carmen"
+    },
+    {
+      "id": 2512186,
+      "city": "Puerto del Rosario"
+    },
+    {
+      "id": 2514370,
+      "city": "Puerto Lumbreras"
+    },
+    {
+      "id": 2512169,
+      "city": "Puerto Real"
+    },
+    {
+      "id": 6354970,
+      "city": "Puerto Rico"
+    },
+    {
+      "id": 2512164,
+      "city": "Puerto Serrano"
+    },
+    {
+      "id": 2512177,
+      "city": "Puertollano"
+    },
+    {
+      "id": 2512162,
+      "city": "Puig"
+    },
+    {
+      "id": 3112680,
+      "city": "Puigcerda"
+    },
+    {
+      "id": 2512155,
+      "city": "Pulianas"
+    },
+    {
+      "id": 2512152,
+      "city": "Pulpi"
+    },
+    {
+      "id": 2565056,
+      "city": "Punta Umbria"
+    },
+    {
+      "id": 2512138,
+      "city": "Puntallana"
+    },
+    {
+      "id": 2512131,
+      "city": "Purullena"
+    },
+    {
+      "id": 2519068,
+      "city": "Quart de Poblet"
+    },
+    {
+      "id": 3112615,
+      "city": "Quart dOnyar"
+    },
+    {
+      "id": 2519061,
+      "city": "Quatretonda"
+    },
+    {
+      "id": 3112593,
+      "city": "Quel"
+    },
+    {
+      "id": 2512107,
+      "city": "Quesada"
+    },
+    {
+      "id": 3112573,
+      "city": "Quijorna"
+    },
+    {
+      "id": 2512099,
+      "city": "Quintana de la Serena"
+    },
+    {
+      "id": 2512096,
+      "city": "Quintanar de la Orden"
+    },
+    {
+      "id": 2512095,
+      "city": "Quintanar del Rey"
+    },
+    {
+      "id": 3112403,
+      "city": "Quinto"
+    },
+    {
+      "id": 3112395,
+      "city": "Quiroga"
+    },
+    {
+      "id": 2512075,
+      "city": "Rafal"
+    },
+    {
+      "id": 2512071,
+      "city": "Rafelguaraf"
+    },
+    {
+      "id": 3112325,
+      "city": "Ramales de la Victoria"
+    },
+    {
+      "id": 2511996,
+      "city": "Real de Montroi"
+    },
+    {
+      "id": 2511994,
+      "city": "Realejo Alto"
+    },
+    {
+      "id": 3112188,
+      "city": "Recas"
+    },
+    {
+      "id": 3112154,
+      "city": "Redondela"
+    },
+    {
+      "id": 2511969,
+      "city": "Redovan"
+    },
+    {
+      "id": 3112075,
+      "city": "Reinosa"
+    },
+    {
+      "id": 3112008,
+      "city": "Reocin"
+    },
+    {
+      "id": 2511930,
+      "city": "Requena"
+    },
+    {
+      "id": 6544350,
+      "city": "Retamar"
+    },
+    {
+      "id": 3111933,
+      "city": "Reus"
+    },
+    {
+      "id": 3111879,
+      "city": "Rianxo"
+    },
+    {
+      "id": 3111867,
+      "city": "Riaza"
+    },
+    {
+      "id": 3111863,
+      "city": "Ribadavia"
+    },
+    {
+      "id": 3111859,
+      "city": "Ribadeo"
+    },
+    {
+      "id": 3111855,
+      "city": "Ribadesella"
+    },
+    {
+      "id": 3111847,
+      "city": "Ribadumia"
+    },
+    {
+      "id": 3111845,
+      "city": "Ribaforada"
+    },
+    {
+      "id": 2511880,
+      "city": "Ribarroja"
+    },
+    {
+      "id": 3111807,
+      "city": "Ribeira"
+    },
+    {
+      "id": 2511873,
+      "city": "Ribera del Fresno"
+    },
+    {
+      "id": 3111825,
+      "city": "Ribes de Freser"
+    },
+    {
+      "id": 3111769,
+      "city": "Ricla"
+    },
+    {
+      "id": 2511852,
+      "city": "Rincon de la Victoria"
+    },
+    {
+      "id": 3111717,
+      "city": "Rincon de Soto"
+    },
+    {
+      "id": 3111704,
+      "city": "Rio Aller"
+    },
+    {
+      "id": 2511825,
+      "city": "Riogordo"
+    },
+    {
+      "id": 3111640,
+      "city": "Rios"
+    },
+    {
+      "id": 3111607,
+      "city": "Ripoll"
+    },
+    {
+      "id": 3111605,
+      "city": "Ripollet"
+    },
+    {
+      "id": 3111590,
+      "city": "Riudoms"
+    },
+    {
+      "id": 3111567,
+      "city": "Roa"
+    },
+    {
+      "id": 3111525,
+      "city": "Robledo de Chavela"
+    },
+    {
+      "id": 2511771,
+      "city": "Rocafort"
+    },
+    {
+      "id": 3111468,
+      "city": "Roda de Bara"
+    },
+    {
+      "id": 3111459,
+      "city": "Rodeiro"
+    },
+    {
+      "id": 2511752,
+      "city": "Rojales"
+    },
+    {
+      "id": 2511730,
+      "city": "Ronda"
+    },
+    {
+      "id": 2511716,
+      "city": "Roquetas de Mar"
+    },
+    {
+      "id": 3111348,
+      "city": "Roses"
+    },
+    {
+      "id": 2511700,
+      "city": "Rota"
+    },
+    {
+      "id": 3111294,
+      "city": "Rubi"
+    },
+    {
+      "id": 2511651,
+      "city": "Rus"
+    },
+    {
+      "id": 2511649,
+      "city": "Rute"
+    },
+    {
+      "id": 2515624,
+      "city": "sa Pobla"
+    },
+    {
+      "id": 3111199,
+      "city": "Sabadell"
+    },
+    {
+      "id": 3111185,
+      "city": "Sabinanigo"
+    },
+    {
+      "id": 2511633,
+      "city": "Sabiote"
+    },
+    {
+      "id": 3111158,
+      "city": "Sada"
+    },
+    {
+      "id": 3111157,
+      "city": "Sadaba"
+    },
+    {
+      "id": 2511619,
+      "city": "Sagunto"
+    },
+    {
+      "id": 3111131,
+      "city": "Sahagun"
+    },
+    {
+      "id": 3111108,
+      "city": "Salamanca"
+    },
+    {
+      "id": 2511551,
+      "city": "Salar"
+    },
+    {
+      "id": 3111101,
+      "city": "Salas"
+    },
+    {
+      "id": 3111092,
+      "city": "Salas de los Infantes"
+    },
+    {
+      "id": 3111065,
+      "city": "Saldana"
+    },
+    {
+      "id": 3111003,
+      "city": "Sallent"
+    },
+    {
+      "id": 2511503,
+      "city": "Salobrena"
+    },
+    {
+      "id": 3110986,
+      "city": "Salou"
+    },
+    {
+      "id": 3110983,
+      "city": "Salt"
+    },
+    {
+      "id": 2511495,
+      "city": "Salteras"
+    },
+    {
+      "id": 2511477,
+      "city": "Salvaleon"
+    },
+    {
+      "id": 3110967,
+      "city": "Salvatierra"
+    },
+    {
+      "id": 3110962,
+      "city": "Sama"
+    },
+    {
+      "id": 3110924,
+      "city": "San Adrian"
+    },
+    {
+      "id": 3110911,
+      "city": "San Agustin de Guadalix"
+    },
+    {
+      "id": 3110880,
+      "city": "San Andres del Rabanedo"
+    },
+    {
+      "id": 3110870,
+      "city": "San Antolin"
+    },
+    {
+      "id": 2511440,
+      "city": "San Bartolome"
+    },
+    {
+      "id": 2511447,
+      "city": "San Bartolome"
+    },
+    {
+      "id": 2511441,
+      "city": "San Bartolome de la Torre"
+    },
+    {
+      "id": 2511411,
+      "city": "San Clemente"
+    },
+    {
+      "id": 3110723,
+      "city": "San Cristobal de Segovia"
+    },
+    {
+      "id": 3110678,
+      "city": "San Esteban de Gormaz"
+    },
+    {
+      "id": 2511388,
+      "city": "San Fernando"
+    },
+    {
+      "id": 3110627,
+      "city": "San Fernando de Henares"
+    },
+    {
+      "id": 3110581,
+      "city": "San Ildefonso"
+    },
+    {
+      "id": 2511366,
+      "city": "San Javier"
+    },
+    {
+      "id": 2511330,
+      "city": "San Juan de Alicante"
+    },
+    {
+      "id": 2511329,
+      "city": "San Juan de Aznalfarache"
+    },
+    {
+      "id": 2511327,
+      "city": "San Juan de la Rambla"
+    },
+    {
+      "id": 3110528,
+      "city": "San Juan de Moro"
+    },
+    {
+      "id": 2511326,
+      "city": "San Juan del Puerto"
+    },
+    {
+      "id": 3110482,
+      "city": "San Justo de la Vega"
+    },
+    {
+      "id": 3110479,
+      "city": "San Leonardo de Yague"
+    },
+    {
+      "id": 3110458,
+      "city": "San Lorenzo de El Escorial"
+    },
+    {
+      "id": 3110360,
+      "city": "San Martin de la Vega"
+    },
+    {
+      "id": 3110326,
+      "city": "San Martin de Valdeiglesias"
+    },
+    {
+      "id": 3110305,
+      "city": "San Mateo de Gallego"
+    },
+    {
+      "id": 2511287,
+      "city": "San Miguel"
+    },
+    {
+      "id": 2511277,
+      "city": "San Miguel de Salinas"
+    },
+    {
+      "id": 2511275,
+      "city": "San Nicolas"
+    },
+    {
+      "id": 2511247,
+      "city": "San Pedro del Pinatar"
+    },
+    {
+      "id": 3110092,
+      "city": "San Roman"
+    },
+    {
+      "id": 2511239,
+      "city": "San Roque"
+    },
+    {
+      "id": 3110044,
+      "city": "San Sebastian"
+    },
+    {
+      "id": 2511230,
+      "city": "San Sebastian de la Gomera"
+    },
+    {
+      "id": 3110040,
+      "city": "San Sebastian de los Reyes"
+    },
+    {
+      "id": 2511032,
+      "city": "San Vicent del Raspeig"
+    },
+    {
+      "id": 3109450,
+      "city": "San Vicente de la Barquera"
+    },
+    {
+      "id": 3110589,
+      "city": "Sanguesa"
+    },
+    {
+      "id": 2511306,
+      "city": "Sanlucar de Barrameda"
+    },
+    {
+      "id": 2511304,
+      "city": "Sanlucar la Mayor"
+    },
+    {
+      "id": 3110921,
+      "city": "Sant Adria de Besos"
+    },
+    {
+      "id": 3110885,
+      "city": "Sant Andreu de la Barca"
+    },
+    {
+      "id": 3110881,
+      "city": "Sant Andreu de Llavaneres"
+    },
+    {
+      "id": 2511448,
+      "city": "Sant Antoni de Portmany"
+    },
+    {
+      "id": 3110834,
+      "city": "Sant Boi de Llobregat"
+    },
+    {
+      "id": 3110821,
+      "city": "Sant Carles de la Rapita"
+    },
+    {
+      "id": 3110813,
+      "city": "Sant Celoni"
+    },
+    {
+      "id": 6533820,
+      "city": "Sant Cristofol de les Fonts"
+    },
+    {
+      "id": 3110718,
+      "city": "Sant Cugat del Valles"
+    },
+    {
+      "id": 3110643,
+      "city": "Sant Feliu de Guixols"
+    },
+    {
+      "id": 3110642,
+      "city": "Sant Feliu de Llobregat"
+    },
+    {
+      "id": 2511381,
+      "city": "Sant Francesc de Formentera"
+    },
+    {
+      "id": 2511331,
+      "city": "Sant Joan de Labritja"
+    },
+    {
+      "id": 3110533,
+      "city": "Sant Joan de les Abadesses"
+    },
+    {
+      "id": 6693046,
+      "city": "Sant Joan de Mediona"
+    },
+    {
+      "id": 3109551,
+      "city": "Sant Joan de Vilatorrada"
+    },
+    {
+      "id": 3110519,
+      "city": "Sant Joan Despi"
+    },
+    {
+      "id": 3109550,
+      "city": "Sant Joan les Fonts"
+    },
+    {
+      "id": 2511352,
+      "city": "Sant Josep de sa Talaia"
+    },
+    {
+      "id": 3109546,
+      "city": "Sant Just Desvern"
+    },
+    {
+      "id": 2511302,
+      "city": "Sant Lluis"
+    },
+    {
+      "id": 6544105,
+      "city": "Sant Marti"
+    },
+    {
+      "id": 3110143,
+      "city": "Sant Pere de Ribes"
+    },
+    {
+      "id": 3110142,
+      "city": "Sant Pere de Riudebitlles"
+    },
+    {
+      "id": 3110101,
+      "city": "Sant Quirze del Valles"
+    },
+    {
+      "id": 3110064,
+      "city": "Sant Sadurni dAnoia"
+    },
+    {
+      "id": 3109442,
+      "city": "Sant Vicenc dels Horts"
+    },
+    {
+      "id": 2511222,
+      "city": "Santa Amalia"
+    },
+    {
+      "id": 3110016,
+      "city": "Santa Barbara"
+    },
+    {
+      "id": 2511202,
+      "city": "Santa Brigida"
+    },
+    {
+      "id": 3109983,
+      "city": "Santa Coloma de Cervello"
+    },
+    {
+      "id": 3109982,
+      "city": "Santa Coloma de Farners"
+    },
+    {
+      "id": 3109981,
+      "city": "Santa Coloma de Gramenet"
+    },
+    {
+      "id": 3109966,
+      "city": "Santa Comba"
+    },
+    {
+      "id": 3109935,
+      "city": "Santa Cruz de Bezana"
+    },
+    {
+      "id": 2511180,
+      "city": "Santa Cruz de la Palma"
+    },
+    {
+      "id": 2511178,
+      "city": "Santa Cruz de la Zarza"
+    },
+    {
+      "id": 2511175,
+      "city": "Santa Cruz de Mudela"
+    },
+    {
+      "id": 2511174,
+      "city": "Santa Cruz de Tenerife"
+    },
+    {
+      "id": 3109925,
+      "city": "Santa Cruz del Retamar"
+    },
+    {
+      "id": 3109894,
+      "city": "Santa Eugenia de Berga"
+    },
+    {
+      "id": 3109871,
+      "city": "Santa Eulalia de Roncana"
+    },
+    {
+      "id": 2511162,
+      "city": "Santa Eularia des Riu"
+    },
+    {
+      "id": 2511150,
+      "city": "Santa Lucia"
+    },
+    {
+      "id": 2511143,
+      "city": "Santa Margalida"
+    },
+    {
+      "id": 3109800,
+      "city": "Santa Maria de Cayon"
+    },
+    {
+      "id": 3109799,
+      "city": "Santa Maria de Corco"
+    },
+    {
+      "id": 3109764,
+      "city": "Santa Maria de Palautordera"
+    },
+    {
+      "id": 3109778,
+      "city": "Santa Maria del Paramo"
+    },
+    {
+      "id": 3109736,
+      "city": "Santa Marina del Rey"
+    },
+    {
+      "id": 2511112,
+      "city": "Santa Marta"
+    },
+    {
+      "id": 3109724,
+      "city": "Santa Marta de Ortigueira"
+    },
+    {
+      "id": 3109721,
+      "city": "Santa Marta de Tormes"
+    },
+    {
+      "id": 3109705,
+      "city": "Santa Olalla"
+    },
+    {
+      "id": 3109693,
+      "city": "Santa Oliva"
+    },
+    {
+      "id": 3109689,
+      "city": "Santa Perpetua de Mogoda"
+    },
+    {
+      "id": 2511102,
+      "city": "Santa Pola"
+    },
+    {
+      "id": 6324533,
+      "city": "Santa Ponsa"
+    },
+    {
+      "id": 3109680,
+      "city": "Santa Susanna"
+    },
+    {
+      "id": 2511091,
+      "city": "Santa Ursula"
+    },
+    {
+      "id": 2511170,
+      "city": "Santaella"
+    },
+    {
+      "id": 3109718,
+      "city": "Santander"
+    },
+    {
+      "id": 2511106,
+      "city": "Santanyi"
+    },
+    {
+      "id": 3109642,
+      "city": "Santiago de Compostela"
+    },
+    {
+      "id": 2511070,
+      "city": "Santiago del Teide"
+    },
+    {
+      "id": 3109582,
+      "city": "Santillana"
+    },
+    {
+      "id": 2511064,
+      "city": "Santiponce"
+    },
+    {
+      "id": 2511063,
+      "city": "Santisteban del Puerto"
+    },
+    {
+      "id": 3109535,
+      "city": "Santo Domingo de la Calzada"
+    },
+    {
+      "id": 2511038,
+      "city": "Santo Tome"
+    },
+    {
+      "id": 2511050,
+      "city": "Santomera"
+    },
+    {
+      "id": 3109527,
+      "city": "Santona"
+    },
+    {
+      "id": 3109501,
+      "city": "Santovenia de Pisuerga"
+    },
+    {
+      "id": 3109481,
+      "city": "Santurtzi"
+    },
+    {
+      "id": 6618856,
+      "city": "Santutxu"
+    },
+    {
+      "id": 3110610,
+      "city": "Sanxenxo"
+    },
+    {
+      "id": 2518723,
+      "city": "sArenal"
+    },
+    {
+      "id": 3109381,
+      "city": "Sariegos"
+    },
+    {
+      "id": 3109380,
+      "city": "Sarinena"
+    },
+    {
+      "id": 3109369,
+      "city": "Sarria"
+    },
+    {
+      "id": 3109364,
+      "city": "Sarria de Ter"
+    },
+    {
+      "id": 2511012,
+      "city": "Sauzal"
+    },
+    {
+      "id": 2511010,
+      "city": "Sax"
+    },
+    {
+      "id": 2510975,
+      "city": "Sedavi"
+    },
+    {
+      "id": 2510972,
+      "city": "Segorbe"
+    },
+    {
+      "id": 3109256,
+      "city": "Segovia"
+    },
+    {
+      "id": 8050889,
+      "city": "Segundo Ensanche"
+    },
+    {
+      "id": 2510967,
+      "city": "Segura de Leon"
+    },
+    {
+      "id": 3109211,
+      "city": "Selaya"
+    },
+    {
+      "id": 2510961,
+      "city": "Selva"
+    },
+    {
+      "id": 2511420,
+      "city": "Sencelles"
+    },
+    {
+      "id": 3109165,
+      "city": "Sentmenat"
+    },
+    {
+      "id": 2510944,
+      "city": "Seron"
+    },
+    {
+      "id": 2510940,
+      "city": "Serra"
+    },
+    {
+      "id": 3109077,
+      "city": "Serranillos del Valle"
+    },
+    {
+      "id": 2510919,
+      "city": "Ses Salines"
+    },
+    {
+      "id": 3109050,
+      "city": "Sesena"
+    },
+    {
+      "id": 3109041,
+      "city": "Sestao"
+    },
+    {
+      "id": 2510915,
+      "city": "Setenil de las Bodegas"
+    },
+    {
+      "id": 3109023,
+      "city": "Seva"
+    },
+    {
+      "id": 2510911,
+      "city": "Sevilla"
+    },
+    {
+      "id": 3109018,
+      "city": "Sevilla La Nueva"
+    },
+    {
+      "id": 2510895,
+      "city": "Sierra de Yeguas"
+    },
+    {
+      "id": 3108961,
+      "city": "Siguenza"
+    },
+    {
+      "id": 2510880,
+      "city": "Silla"
+    },
+    {
+      "id": 3108950,
+      "city": "Silleda"
+    },
+    {
+      "id": 3108945,
+      "city": "Sils"
+    },
+    {
+      "id": 3108917,
+      "city": "Simancas"
+    },
+    {
+      "id": 2510870,
+      "city": "Simat de la Valldigna"
+    },
+    {
+      "id": 2510868,
+      "city": "Sineu"
+    },
+    {
+      "id": 2510864,
+      "city": "Siruela"
+    },
+    {
+      "id": 3108877,
+      "city": "Sitges"
+    },
+    {
+      "id": 3108862,
+      "city": "Sober"
+    },
+    {
+      "id": 3108847,
+      "city": "Sobrado"
+    },
+    {
+      "id": 2510853,
+      "city": "Socovos"
+    },
+    {
+      "id": 2510852,
+      "city": "Socuellamos"
+    },
+    {
+      "id": 2510839,
+      "city": "Solana de los Barros"
+    },
+    {
+      "id": 2510822,
+      "city": "Sollana"
+    },
+    {
+      "id": 2510821,
+      "city": "Soller"
+    },
+    {
+      "id": 3108747,
+      "city": "Solsona"
+    },
+    {
+      "id": 2510799,
+      "city": "Son Servera"
+    },
+    {
+      "id": 2510801,
+      "city": "Sonseca"
+    },
+    {
+      "id": 3108702,
+      "city": "Sopelana"
+    },
+    {
+      "id": 6363003,
+      "city": "Sopuerta"
+    },
+    {
+      "id": 2510793,
+      "city": "Sorbas"
+    },
+    {
+      "id": 3108681,
+      "city": "Soria"
+    },
+    {
+      "id": 3108663,
+      "city": "Sort"
+    },
+    {
+      "id": 3108636,
+      "city": "Sotillo de la Adrada"
+    },
+    {
+      "id": 3108607,
+      "city": "Soto de la Vega"
+    },
+    {
+      "id": 3108606,
+      "city": "Soto del Barco"
+    },
+    {
+      "id": 3108534,
+      "city": "Suances"
+    },
+    {
+      "id": 3108520,
+      "city": "Subirats"
+    },
+    {
+      "id": 2510764,
+      "city": "Sueca"
+    },
+    {
+      "id": 3108487,
+      "city": "Suria"
+    },
+    {
+      "id": 2510746,
+      "city": "Tabernas"
+    },
+    {
+      "id": 3108425,
+      "city": "Taboada"
+    },
+    {
+      "id": 2510725,
+      "city": "Tacoronte"
+    },
+    {
+      "id": 3108412,
+      "city": "Tafalla"
+    },
+    {
+      "id": 3108389,
+      "city": "Talamanca de Jarama"
+    },
+    {
+      "id": 2510700,
+      "city": "Talarrubias"
+    },
+    {
+      "id": 2510693,
+      "city": "Talavera de la Reina"
+    },
+    {
+      "id": 2510692,
+      "city": "Talavera La Real"
+    },
+    {
+      "id": 2510689,
+      "city": "Talayuela"
+    },
+    {
+      "id": 3108360,
+      "city": "Tamarit de Llitera / Tamarite de Litera"
+    },
+    {
+      "id": 2510621,
+      "city": "Tanque"
+    },
+    {
+      "id": 3108335,
+      "city": "Tapia de Casariego"
+    },
+    {
+      "id": 3108327,
+      "city": "Taradell"
+    },
+    {
+      "id": 3108317,
+      "city": "Tarancon"
+    },
+    {
+      "id": 3108308,
+      "city": "Tarazona"
+    },
+    {
+      "id": 2510602,
+      "city": "Tarazona de la Mancha"
+    },
+    {
+      "id": 2510599,
+      "city": "Tarifa"
+    },
+    {
+      "id": 3108288,
+      "city": "Tarragona"
+    },
+    {
+      "id": 3108285,
+      "city": "Tarrega"
+    },
+    {
+      "id": 3108269,
+      "city": "Tauste"
+    },
+    {
+      "id": 2510744,
+      "city": "Tavernes Blanques"
+    },
+    {
+      "id": 2510743,
+      "city": "Tavernes de la Valldigna"
+    },
+    {
+      "id": 2510582,
+      "city": "Tazacorte"
+    },
+    {
+      "id": 2510580,
+      "city": "Teba"
+    },
+    {
+      "id": 2510574,
+      "city": "Tegueste"
+    },
+    {
+      "id": 2510573,
+      "city": "Teguise"
+    },
+    {
+      "id": 3108116,
+      "city": "Teia"
+    },
+    {
+      "id": 2510558,
+      "city": "Tejeda"
+    },
+    {
+      "id": 2510542,
+      "city": "Telde"
+    },
+    {
+      "id": 2510540,
+      "city": "Tembleque"
+    },
+    {
+      "id": 3108165,
+      "city": "Teo"
+    },
+    {
+      "id": 2510508,
+      "city": "Teror"
+    },
+    {
+      "id": 3108144,
+      "city": "Terradillos"
+    },
+    {
+      "id": 3108286,
+      "city": "Terrassa"
+    },
+    {
+      "id": 3108126,
+      "city": "Teruel"
+    },
+    {
+      "id": 2510488,
+      "city": "Teulada"
+    },
+    {
+      "id": 3108110,
+      "city": "Tiana"
+    },
+    {
+      "id": 2510485,
+      "city": "Tias"
+    },
+    {
+      "id": 3108104,
+      "city": "Tielmes"
+    },
+    {
+      "id": 2510468,
+      "city": "Tijarafe"
+    },
+    {
+      "id": 2510463,
+      "city": "Tijola"
+    },
+    {
+      "id": 2510455,
+      "city": "Tinajo"
+    },
+    {
+      "id": 3108087,
+      "city": "Tineo"
+    },
+    {
+      "id": 2510426,
+      "city": "Tobarra"
+    },
+    {
+      "id": 2510419,
+      "city": "Tocina"
+    },
+    {
+      "id": 3108036,
+      "city": "Toen"
+    },
+    {
+      "id": 2510409,
+      "city": "Toledo"
+    },
+    {
+      "id": 3108008,
+      "city": "Tolosa"
+    },
+    {
+      "id": 2510398,
+      "city": "Tolox"
+    },
+    {
+      "id": 2510394,
+      "city": "Tomares"
+    },
+    {
+      "id": 2510392,
+      "city": "Tomelloso"
+    },
+    {
+      "id": 3108000,
+      "city": "Tomino"
+    },
+    {
+      "id": 3107997,
+      "city": "Tona"
+    },
+    {
+      "id": 3107955,
+      "city": "Tordera"
+    },
+    {
+      "id": 3107952,
+      "city": "Tordesillas"
+    },
+    {
+      "id": 3107941,
+      "city": "Torello"
+    },
+    {
+      "id": 3107940,
+      "city": "Toreno"
+    },
+    {
+      "id": 3107886,
+      "city": "Toro"
+    },
+    {
+      "id": 2510349,
+      "city": "Torralba de Calatrava"
+    },
+    {
+      "id": 3107813,
+      "city": "Torre del Bierzo"
+    },
+    {
+      "id": 2510310,
+      "city": "Torre del Campo"
+    },
+    {
+      "id": 2510271,
+      "city": "Torre-Pacheco"
+    },
+    {
+      "id": 3107849,
+      "city": "Torreblanca"
+    },
+    {
+      "id": 2510330,
+      "city": "Torreblascopedro"
+    },
+    {
+      "id": 3107807,
+      "city": "Torredembarra"
+    },
+    {
+      "id": 2510301,
+      "city": "Torredonjimeno"
+    },
+    {
+      "id": 3107797,
+      "city": "Torrefarrera"
+    },
+    {
+      "id": 3107784,
+      "city": "Torrejon de Ardoz"
+    },
+    {
+      "id": 3107783,
+      "city": "Torrejon de la Calzada"
+    },
+    {
+      "id": 3107781,
+      "city": "Torrejon de Velasco"
+    },
+    {
+      "id": 3107782,
+      "city": "Torrejon del Rey"
+    },
+    {
+      "id": 2510295,
+      "city": "Torrejoncillo"
+    },
+    {
+      "id": 3107779,
+      "city": "Torrelaguna"
+    },
+    {
+      "id": 3107775,
+      "city": "Torrelavega"
+    },
+    {
+      "id": 3107768,
+      "city": "Torrelles de Llobregat"
+    },
+    {
+      "id": 3107765,
+      "city": "Torrelodones"
+    },
+    {
+      "id": 2510281,
+      "city": "Torremolinos"
+    },
+    {
+      "id": 2510279,
+      "city": "Torrent"
+    },
+    {
+      "id": 2510274,
+      "city": "Torrenueva"
+    },
+    {
+      "id": 2510270,
+      "city": "Torreperogil"
+    },
+    {
+      "id": 3107722,
+      "city": "Torres de la Alameda"
+    },
+    {
+      "id": 3107717,
+      "city": "Torres de Segre"
+    },
+    {
+      "id": 2510253,
+      "city": "Torrevieja"
+    },
+    {
+      "id": 2510249,
+      "city": "Torrijos"
+    },
+    {
+      "id": 3107700,
+      "city": "Torroella de Montgri"
+    },
+    {
+      "id": 2510245,
+      "city": "Torrox"
+    },
+    {
+      "id": 3107677,
+      "city": "Tortosa"
+    },
+    {
+      "id": 3107661,
+      "city": "Tossa de Mar"
+    },
+    {
+      "id": 2510224,
+      "city": "Totana"
+    },
+    {
+      "id": 3107653,
+      "city": "Touro"
+    },
+    {
+      "id": 3107546,
+      "city": "Trazo"
+    },
+    {
+      "id": 2510186,
+      "city": "Trebujena"
+    },
+    {
+      "id": 3107519,
+      "city": "Tremp"
+    },
+    {
+      "id": 2510165,
+      "city": "Trigueros"
+    },
+    {
+      "id": 2510145,
+      "city": "Trujillo"
+    },
+    {
+      "id": 3107418,
+      "city": "Tudela"
+    },
+    {
+      "id": 3107415,
+      "city": "Tudela de Duero"
+    },
+    {
+      "id": 3107364,
+      "city": "Tui"
+    },
+    {
+      "id": 2510137,
+      "city": "Tuineje"
+    },
+    {
+      "id": 2510128,
+      "city": "Turis"
+    },
+    {
+      "id": 2510124,
+      "city": "Turre"
+    },
+    {
+      "id": 2510116,
+      "city": "Ubeda"
+    },
+    {
+      "id": 2510112,
+      "city": "Ubrique"
+    },
+    {
+      "id": 3107320,
+      "city": "Ugena"
+    },
+    {
+      "id": 2510103,
+      "city": "Ugijar"
+    },
+    {
+      "id": 3107305,
+      "city": "Ulldecona"
+    },
+    {
+      "id": 2510098,
+      "city": "Umbrete"
+    },
+    {
+      "id": 2510083,
+      "city": "Urda"
+    },
+    {
+      "id": 3114980,
+      "city": "Urduna"
+    },
+    {
+      "id": 3107204,
+      "city": "Urnieta"
+    },
+    {
+      "id": 3129154,
+      "city": "Urrestieta"
+    },
+    {
+      "id": 3114866,
+      "city": "Urtuella"
+    },
+    {
+      "id": 2510079,
+      "city": "Usagre"
+    },
+    {
+      "id": 3107141,
+      "city": "Usurbil"
+    },
+    {
+      "id": 3107139,
+      "city": "Utebo"
+    },
+    {
+      "id": 2510075,
+      "city": "Utiel"
+    },
+    {
+      "id": 2510073,
+      "city": "Utrera"
+    },
+    {
+      "id": 3107133,
+      "city": "Utrillas"
+    },
+    {
+      "id": 3107112,
+      "city": "Vaciamadrid"
+    },
+    {
+      "id": 3106955,
+      "city": "Valdefresno"
+    },
+    {
+      "id": 3106870,
+      "city": "Valdemorillo"
+    },
+    {
+      "id": 3106868,
+      "city": "Valdemoro"
+    },
+    {
+      "id": 3106843,
+      "city": "Valdeolmos"
+    },
+    {
+      "id": 2509982,
+      "city": "Valdepenas"
+    },
+    {
+      "id": 2509980,
+      "city": "Valdepenas de Jaen"
+    },
+    {
+      "id": 3106812,
+      "city": "Valderas"
+    },
+    {
+      "id": 3106803,
+      "city": "Valderrobres"
+    },
+    {
+      "id": 2509974,
+      "city": "Valdes"
+    },
+    {
+      "id": 3106759,
+      "city": "Valdetorres de Jarama"
+    },
+    {
+      "id": 3106742,
+      "city": "Valdilecha"
+    },
+    {
+      "id": 3106732,
+      "city": "Valdovino"
+    },
+    {
+      "id": 2509954,
+      "city": "Valencia"
+    },
+    {
+      "id": 2509950,
+      "city": "Valencia de Alcantara"
+    },
+    {
+      "id": 3106718,
+      "city": "Valencia de Don Juan"
+    },
+    {
+      "id": 2509947,
+      "city": "Valencia del Ventoso"
+    },
+    {
+      "id": 2509946,
+      "city": "Valencina de la Concepcion"
+    },
+    {
+      "id": 3106702,
+      "city": "Valga"
+    },
+    {
+      "id": 2509934,
+      "city": "Vallada"
+    },
+    {
+      "id": 3106672,
+      "city": "Valladolid"
+    },
+    {
+      "id": 2509929,
+      "city": "Valldemossa"
+    },
+    {
+      "id": 2509887,
+      "city": "Vallehermosa"
+    },
+    {
+      "id": 2509864,
+      "city": "Valleseco"
+    },
+    {
+      "id": 3106515,
+      "city": "Vallirana"
+    },
+    {
+      "id": 3106492,
+      "city": "Valls"
+    },
+    {
+      "id": 3106471,
+      "city": "Valmojado"
+    },
+    {
+      "id": 2509846,
+      "city": "Valsequillo de Gran Canaria"
+    },
+    {
+      "id": 3106430,
+      "city": "Valtierra"
+    },
+    {
+      "id": 2509841,
+      "city": "Valverde"
+    },
+    {
+      "id": 3106397,
+      "city": "Valverde de la Virgen"
+    },
+    {
+      "id": 2509834,
+      "city": "Valverde de Leganes"
+    },
+    {
+      "id": 2509835,
+      "city": "Valverde del Camino"
+    },
+    {
+      "id": 3106396,
+      "city": "Valverde del Fresno"
+    },
+    {
+      "id": 3106356,
+      "city": "Vedra"
+    },
+    {
+      "id": 3106313,
+      "city": "Vega de Espinareda"
+    },
+    {
+      "id": 2509799,
+      "city": "Vega de San Mateo"
+    },
+    {
+      "id": 3106293,
+      "city": "Vegadeo"
+    },
+    {
+      "id": 2509783,
+      "city": "Vejer de la Frontera"
+    },
+    {
+      "id": 2509781,
+      "city": "Velada"
+    },
+    {
+      "id": 2509772,
+      "city": "Velez Blanco"
+    },
+    {
+      "id": 2509771,
+      "city": "Velez de Benaudalla"
+    },
+    {
+      "id": 2509768,
+      "city": "Velez Rubio"
+    },
+    {
+      "id": 2509769,
+      "city": "Velez-Malaga"
+    },
+    {
+      "id": 3106202,
+      "city": "Velilla de San Antonio"
+    },
+    {
+      "id": 3106166,
+      "city": "Venta de Banos"
+    },
+    {
+      "id": 2509693,
+      "city": "Vera"
+    },
+    {
+      "id": 2509669,
+      "city": "Vergel"
+    },
+    {
+      "id": 3106086,
+      "city": "Verin"
+    },
+    {
+      "id": 2509660,
+      "city": "Viator"
+    },
+    {
+      "id": 3106050,
+      "city": "Vic"
+    },
+    {
+      "id": 2509650,
+      "city": "Vicar"
+    },
+    {
+      "id": 3105994,
+      "city": "Vielha"
+    },
+    {
+      "id": 3105976,
+      "city": "Vigo"
+    },
+    {
+      "id": 2509509,
+      "city": "Vila-real"
+    },
+    {
+      "id": 3105803,
+      "city": "Vila-seca"
+    },
+    {
+      "id": 3105955,
+      "city": "Vilablareix"
+    },
+    {
+      "id": 3105935,
+      "city": "Viladecans"
+    },
+    {
+      "id": 3105922,
+      "city": "Vilafant"
+    },
+    {
+      "id": 2509617,
+      "city": "Vilaflor"
+    },
+    {
+      "id": 2509600,
+      "city": "Vilafranca de Bonany"
+    },
+    {
+      "id": 3105600,
+      "city": "Vilafranca del Penedes"
+    },
+    {
+      "id": 3105575,
+      "city": "Vilagarcia de Arousa"
+    },
+    {
+      "id": 3105522,
+      "city": "Vilalba"
+    },
+    {
+      "id": 2509576,
+      "city": "Vilamarxant"
+    },
+    {
+      "id": 3105267,
+      "city": "Vilanova de Arousa"
+    },
+    {
+      "id": 3105885,
+      "city": "Vilanova del Cami"
+    },
+    {
+      "id": 3105184,
+      "city": "Vilanova i la Geltru"
+    },
+    {
+      "id": 3105805,
+      "city": "Vilaseca"
+    },
+    {
+      "id": 3110516,
+      "city": "Vilassar de Mar"
+    },
+    {
+      "id": 2509615,
+      "city": "Vilches"
+    },
+    {
+      "id": 2509605,
+      "city": "Villa de Don Fadrique"
+    },
+    {
+      "id": 3105675,
+      "city": "Villa del Prado"
+    },
+    {
+      "id": 2509603,
+      "city": "Villa del Rio"
+    },
+    {
+      "id": 2509609,
+      "city": "Villablanca"
+    },
+    {
+      "id": 3105748,
+      "city": "Villablino"
+    },
+    {
+      "id": 3105742,
+      "city": "Villabona"
+    },
+    {
+      "id": 2509608,
+      "city": "Villacanas"
+    },
+    {
+      "id": 2509606,
+      "city": "Villacarrillo"
+    },
+    {
+      "id": 3105694,
+      "city": "Villaconejos"
+    },
+    {
+      "id": 3105679,
+      "city": "Villadecanes"
+    },
+    {
+      "id": 3105661,
+      "city": "Villadiego"
+    },
+    {
+      "id": 3105651,
+      "city": "Villaescusa"
+    },
+    {
+      "id": 3105609,
+      "city": "Villafranca"
+    },
+    {
+      "id": 2509599,
+      "city": "Villafranca de Cordoba"
+    },
+    {
+      "id": 2509598,
+      "city": "Villafranca de los Barros"
+    },
+    {
+      "id": 2509597,
+      "city": "Villafranca de los Caballeros"
+    },
+    {
+      "id": 3105603,
+      "city": "Villafranca del Bierzo"
+    },
+    {
+      "id": 3105601,
+      "city": "Villafranca del Cid"
+    },
+    {
+      "id": 2509589,
+      "city": "Villahermosa"
+    },
+    {
+      "id": 2509588,
+      "city": "Villajoyosa"
+    },
+    {
+      "id": 2509587,
+      "city": "Villalba del Alcor"
+    },
+    {
+      "id": 3105501,
+      "city": "Villalbilla"
+    },
+    {
+      "id": 3105467,
+      "city": "Villalon de Campos"
+    },
+    {
+      "id": 2509583,
+      "city": "Villalonga"
+    },
+    {
+      "id": 2509580,
+      "city": "Villamalea"
+    },
+    {
+      "id": 2509577,
+      "city": "Villamanrique de la Condesa"
+    },
+    {
+      "id": 3105437,
+      "city": "Villamanta"
+    },
+    {
+      "id": 2509575,
+      "city": "Villamartin"
+    },
+    {
+      "id": 3105411,
+      "city": "Villamayor"
+    },
+    {
+      "id": 2509573,
+      "city": "Villamayor de Santiago"
+    },
+    {
+      "id": 3105381,
+      "city": "Villamediana de Iregua"
+    },
+    {
+      "id": 3105331,
+      "city": "Villamuriel de Cerrato"
+    },
+    {
+      "id": 2509567,
+      "city": "Villanueva de Alcardete"
+    },
+    {
+      "id": 2509566,
+      "city": "Villanueva de Algaidas"
+    },
+    {
+      "id": 2509564,
+      "city": "Villanueva de Castellon"
+    },
+    {
+      "id": 2509562,
+      "city": "Villanueva de Cordoba"
+    },
+    {
+      "id": 3105257,
+      "city": "Villanueva de Gallego"
+    },
+    {
+      "id": 3105247,
+      "city": "Villanueva de la Canada"
+    },
+    {
+      "id": 2509560,
+      "city": "Villanueva de la Fuente"
+    },
+    {
+      "id": 2509558,
+      "city": "Villanueva de la Jara"
+    },
+    {
+      "id": 2509557,
+      "city": "Villanueva de la Reina"
+    },
+    {
+      "id": 2509553,
+      "city": "Villanueva de la Serena"
+    },
+    {
+      "id": 3105233,
+      "city": "Villanueva de la Torre"
+    },
+    {
+      "id": 3105231,
+      "city": "Villanueva de la Vera"
+    },
+    {
+      "id": 2509556,
+      "city": "Villanueva del Ariscal"
+    },
+    {
+      "id": 2509555,
+      "city": "Villanueva del Arzobispo"
+    },
+    {
+      "id": 2509550,
+      "city": "Villanueva del Fresno"
+    },
+    {
+      "id": 3105214,
+      "city": "Villanueva del Pardillo"
+    },
+    {
+      "id": 2509545,
+      "city": "Villanueva del Rio y Minas"
+    },
+    {
+      "id": 2509544,
+      "city": "Villanueva del Rosario"
+    },
+    {
+      "id": 2509543,
+      "city": "Villanueva del Trabuco"
+    },
+    {
+      "id": 3105148,
+      "city": "Villaquilambre"
+    },
+    {
+      "id": 2509520,
+      "city": "Villar del Arzobispo"
+    },
+    {
+      "id": 2509516,
+      "city": "Villar del Rey"
+    },
+    {
+      "id": 3104980,
+      "city": "Villarejo de Orbigo"
+    },
+    {
+      "id": 3104979,
+      "city": "Villarejo de Salvanes"
+    },
+    {
+      "id": 3104969,
+      "city": "Villares de la Reina"
+    },
+    {
+      "id": 2509494,
+      "city": "Villarrasa"
+    },
+    {
+      "id": 2509491,
+      "city": "Villarrobledo"
+    },
+    {
+      "id": 2509488,
+      "city": "Villarrubia"
+    },
+    {
+      "id": 2509487,
+      "city": "Villarrubia de los Ojos"
+    },
+    {
+      "id": 2509486,
+      "city": "Villarrubia de Santiago"
+    },
+    {
+      "id": 2509480,
+      "city": "Villarta de San Juan"
+    },
+    {
+      "id": 3104847,
+      "city": "Villasana de Mena"
+    },
+    {
+      "id": 2509477,
+      "city": "Villasequilla de Yepes"
+    },
+    {
+      "id": 2509475,
+      "city": "Villatobas"
+    },
+    {
+      "id": 2509468,
+      "city": "Villaverde del Rio"
+    },
+    {
+      "id": 3104707,
+      "city": "Villaviciosa"
+    },
+    {
+      "id": 2509466,
+      "city": "Villaviciosa de Cordoba"
+    },
+    {
+      "id": 3104703,
+      "city": "Villaviciosa de Odon"
+    },
+    {
+      "id": 2509465,
+      "city": "Villavieja"
+    },
+    {
+      "id": 2509463,
+      "city": "Villena"
+    },
+    {
+      "id": 2509457,
+      "city": "Vinalesa"
+    },
+    {
+      "id": 3104584,
+      "city": "Vinaros"
+    },
+    {
+      "id": 2509437,
+      "city": "Viso del Marques"
+    },
+    {
+      "id": 3104501,
+      "city": "Vitigudino"
+    },
+    {
+      "id": 3104499,
+      "city": "Vitoria-Gasteiz"
+    },
+    {
+      "id": 3104475,
+      "city": "Viveiro"
+    },
+    {
+      "id": 2516345,
+      "city": "Xativa"
+    },
+    {
+      "id": 2516330,
+      "city": "Xeresa"
+    },
+    {
+      "id": 3121404,
+      "city": "Xinzo de Limia"
+    },
+    {
+      "id": 2519466,
+      "city": "Xirivella"
+    },
+    {
+      "id": 2509408,
+      "city": "Yaiza"
+    },
+    {
+      "id": 2509406,
+      "city": "Yatova"
+    },
+    {
+      "id": 2509402,
+      "city": "Yecla"
+    },
+    {
+      "id": 3104427,
+      "city": "Yeles"
+    },
+    {
+      "id": 2509389,
+      "city": "Yepes"
+    },
+    {
+      "id": 2509386,
+      "city": "Yeste"
+    },
+    {
+      "id": 3104397,
+      "city": "Yuncler"
+    },
+    {
+      "id": 3104395,
+      "city": "Yuncos"
+    },
+    {
+      "id": 2509382,
+      "city": "Yunquera"
+    },
+    {
+      "id": 3104394,
+      "city": "Yunquera de Henares"
+    },
+    {
+      "id": 2509379,
+      "city": "Zafarraya"
+    },
+    {
+      "id": 2509377,
+      "city": "Zafra"
+    },
+    {
+      "id": 2509368,
+      "city": "Zahinos"
+    },
+    {
+      "id": 2509365,
+      "city": "Zalamea de la Serena"
+    },
+    {
+      "id": 2509364,
+      "city": "Zalamea la Real"
+    },
+    {
+      "id": 3104342,
+      "city": "Zamora"
+    },
+    {
+      "id": 3104339,
+      "city": "Zamudio"
+    },
+    {
+      "id": 3104324,
+      "city": "Zaragoza"
+    },
+    {
+      "id": 3104318,
+      "city": "Zaratan"
+    },
+    {
+      "id": 3104316,
+      "city": "Zarautz"
+    },
+    {
+      "id": 2509329,
+      "city": "Zarza de Alange"
+    },
+    {
+      "id": 3125077,
+      "city": "Zierbena"
+    },
+    {
+      "id": 2509305,
+      "city": "Zubia"
+    },
+    {
+      "id": 3104226,
+      "city": "Zuera"
+    },
+    {
+      "id": 2509300,
+      "city": "Zujar"
+    },
+    {
+      "id": 3104218,
+      "city": "Zumaia"
+    },
+    {
+      "id": 2509293,
+      "city": "Zurgena"
+    }
+  ]
+}

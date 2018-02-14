@@ -1,5 +1,6 @@
-package com.mercacortex.ad_entrega_t4.ui;
+package com.mercacortex.ad_entrega_t4.ui.openweathermap.forecast;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -10,6 +11,7 @@ import android.widget.ListView;
 
 import com.mercacortex.ad_entrega_t4.R;
 import com.mercacortex.ad_entrega_t4.model.CityWeather;
+import com.mercacortex.ad_entrega_t4.ui.openweathermap.IOpenWeatherMap;
 import com.mercacortex.ad_entrega_t4.utils.Analisis;
 
 import org.json.JSONException;
@@ -18,8 +20,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class OpenWeatherMapSpainActivity extends AppCompatActivity implements IOpenWeatherMap {
-
-    public static final String TAG = "OpenWeatherMapSpainActivity";
     private static ArrayList<CityWeather> cities;
     private ListView listView;
     private ArrayAdapter<CityWeather> cityWeatherAdapter;
@@ -37,9 +37,8 @@ public class OpenWeatherMapSpainActivity extends AppCompatActivity implements IO
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                Intent intent = new Intent(OpenWeatherMapSpainActivity.this, CityWeatherActivity.class);
+                Intent intent = new Intent(OpenWeatherMapSpainActivity.this, CityForecastActivity.class);
                 intent.putExtra(CITY, cities.get(position));
-                intent.putExtra(KEY, TAG);
                 startActivity(intent);
             }
         });
@@ -47,12 +46,15 @@ public class OpenWeatherMapSpainActivity extends AppCompatActivity implements IO
     }
 
     private void loadCities() {
+        ProgressDialog progressDialog = new ProgressDialog(this);
+        progressDialog.show();
         cities = new ArrayList<>();
         try {
-            cities = Analisis.readSpainCitiesFromAsset();
+            cities = Analisis.readSpainCitiesFromAsset(this);
         } catch (JSONException | IOException e) {
             e.printStackTrace();
         }
+        progressDialog.dismiss();
     }
 
 }
