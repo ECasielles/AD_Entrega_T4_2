@@ -16,7 +16,6 @@ import com.mercacortex.ad_entrega_t4.ui.openweathermap.IOpenWeatherMap;
 import com.mercacortex.ad_entrega_t4.utils.Analisis;
 import com.squareup.picasso.Picasso;
 
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.Locale;
@@ -53,7 +52,6 @@ public class CityWeatherActivity extends AppCompatActivity {
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
                 super.onSuccess(statusCode, headers, response);
-                try {
                     WeatherGSON weatherGSON = Analisis.analizeWeatherGSON(response);
                     txvName.setText(String.format(
                             "El tiempo en: %s",
@@ -74,9 +72,6 @@ public class CityWeatherActivity extends AppCompatActivity {
                     Picasso.with(CityWeatherActivity.this)
                             .load(WeatherAPI.loadWeatherIcon(weatherGSON.weather.get(0).icon))
                             .into(imvForecast);
-                } catch (JSONException e) {
-                    showMessage("Error de lectura de JSON: " + e.getLocalizedMessage());
-                }
             }
 
             @Override

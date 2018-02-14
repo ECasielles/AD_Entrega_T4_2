@@ -7,6 +7,7 @@ import android.util.Log;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.mercacortex.ad_entrega_t4.api.CurrencyAPI;
+import com.mercacortex.ad_entrega_t4.model.AirportGSON;
 import com.mercacortex.ad_entrega_t4.model.CityGSON;
 import com.mercacortex.ad_entrega_t4.model.CityWeather;
 import com.mercacortex.ad_entrega_t4.model.WeatherGSON;
@@ -31,12 +32,12 @@ import fr.arnaudguyon.xmltojsonlib.JsonToXml;
 
 public class Analisis {
 
-    public static WeatherGSON analizeWeatherGSON(JSONObject response) throws JSONException {
+    public static WeatherGSON analizeWeatherGSON(JSONObject response) {
         Gson gson = new GsonBuilder().create();
         return gson.fromJson(String.valueOf(response), WeatherGSON.class);
     }
 
-    public static CityGSON analizeForecastGSON(JSONObject response) throws JSONException {
+    public static CityGSON analizeForecastGSON(JSONObject response) {
         Gson gson = new GsonBuilder().create();
         return gson.fromJson(String.valueOf(response), CityGSON.class);
     }
@@ -111,4 +112,14 @@ public class Analisis {
         }
         return exchangeTable;
     }
+
+    public static ArrayList<AirportGSON.Airport> analizeAirportGSON(JSONArray response) throws JSONException {
+        Gson gson = new GsonBuilder().create();
+        ArrayList<AirportGSON.Airport> airports = new ArrayList<>();
+        for (int i = 0; i < response.length(); i++) {
+            airports.add(gson.fromJson(String.valueOf(response.getJSONObject(i)), AirportGSON.Airport.class));
+        }
+        return airports;
+    }
+
 }
