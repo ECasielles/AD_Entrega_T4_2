@@ -1,7 +1,10 @@
 package com.mercacortex.ad_entrega_t4.ui;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
@@ -24,6 +27,7 @@ import cz.msebera.android.httpclient.Header;
 
 public class DatosAbiertosActivity extends AppCompatActivity {
 
+    public static final String CONTENT = "content";
     private ArrayList<AirportGSON.Airport> airports;
     private ListView listView;
     private ArrayAdapter<AirportGSON.Airport> adapter;
@@ -36,6 +40,17 @@ public class DatosAbiertosActivity extends AppCompatActivity {
         adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, airports);
         listView = findViewById(android.R.id.list);
         listView.setAdapter(adapter);
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Intent intent = new Intent(DatosAbiertosActivity.this, AirportInfoActivity.class);
+                intent.putExtra(CONTENT, ((AirportGSON.Airport)parent.getItemAtPosition(position)).getDescription());
+                startActivity(intent);
+            }
+        });
+    }
+
+    public void onClick(View view) {
         download(OpenDataAPI.BASE_URL);
     }
 
@@ -50,13 +65,13 @@ public class DatosAbiertosActivity extends AppCompatActivity {
             @Override
             public void onFailure(int statusCode, Header[] headers, String responseString, Throwable throwable) {
                 super.onFailure(statusCode, headers, responseString, throwable);
-                showMessage(throwable.getLocalizedMessage());
+                showMessage("Error en la descarga: " + throwable.getLocalizedMessage());
             }
 
             @Override
             public void onFailure(int statusCode, Header[] headers, Throwable throwable, JSONObject errorResponse) {
                 super.onFailure(statusCode, headers, throwable, errorResponse);
-                showMessage(throwable.getLocalizedMessage());
+                showMessage("Error en la descarga: " + throwable.getLocalizedMessage());
             }
         });
     }
@@ -66,14 +81,15 @@ public class DatosAbiertosActivity extends AppCompatActivity {
             airports = Analisis.analizeAirportGSON(response);
             adapter.clear();
             adapter.addAll(airports);
+            showMessage("Carga con éxito");
         } catch (JSONException e) {
             showMessage("Error de lectura de JSON: " + e.getLocalizedMessage());
         }
     }
 
-
     private void showMessage(String message) {
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
     }
+
 
 }

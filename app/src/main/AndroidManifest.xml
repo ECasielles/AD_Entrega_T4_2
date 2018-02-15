@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mercacortex.ad_entrega_t4"
+          package="com.mercacortex.ad_entrega_t4"
     >
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
-    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET"/>
 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
-    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
-    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
     <application
         android:allowBackup="true"
@@ -25,18 +25,20 @@
         >
         <activity android:name=".ui.MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN"/>
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".ui.openweathermap.weather.OpenWeatherMapActivity" />
-        <activity android:name=".ui.openweathermap.forecast.OpenWeatherMapSpainActivity" />
-        <activity android:name=".ui.ConversorMonedaJSONActivity" />
-        <activity android:name=".ui.BiziGSONActivity" />
-        <activity android:name=".ui.DatosAbiertosActivity" />
-        <activity android:name=".ui.openweathermap.weather.CityWeatherActivity" />
-        <activity android:name=".ui.openweathermap.forecast.CityForecastActivity"></activity>
+        <activity android:name=".ui.openweathermap.weather.OpenWeatherMapActivity"/>
+        <activity android:name=".ui.openweathermap.forecast.OpenWeatherMapSpainActivity"/>
+        <activity android:name=".ui.ConversorMonedaJSONActivity"/>
+        <activity android:name=".ui.BiziGSONActivity"/>
+        <activity android:name=".ui.DatosAbiertosActivity"/>
+        <activity android:name=".ui.openweathermap.weather.CityWeatherActivity"/>
+        <activity android:name=".ui.openweathermap.forecast.CityForecastActivity"/>
+        <activity android:name=".ui.AirportInfoActivity">
+        </activity>
     </application>
 
 </manifest>
